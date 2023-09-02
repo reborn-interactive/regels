@@ -41,7 +41,7 @@
 
 1. Je moet altijd goed onderbouwde motivaties achter je acties hebben.
 
--  Je moet je leven te allen tijde waarderen. Dit betekent dat als u zich in een situatie bevindt waarin iemand u initieert en u in het nadeel bent, u zich moet overgeven en aan hun eisen moet voldoen. Voorbeelden hiervan zijn:
+-  Je moet je leven te allen tijde waarderen. Dit betekent dat als u zich in een situatie bevindt waarin iemand u "ripped" en u in het nadeel bent, u zich moet overgeven en aan hun eisen moet voldoen. Voorbeelden hiervan zijn:
 
     - Je hebt een pistool in je handen en iemand zet een pistool tegen de achterkant van je hoofd en zegt dat je je handen omhoog moet steken of moet worden neergeschoten, in dit geval moet je gehoorzamen.
 
