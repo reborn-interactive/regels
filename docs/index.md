@@ -54,7 +54,7 @@
 
 - U mag het RP op geen enkele manier onderbreken. De enige uitzondering is om een ​​nieuwe speler te helpen als ze niet op de hoogte zijn van bepaalde besturingselementen. In dat geval mag je de besturingselementen naar hen typen via /me.
 
--  Combat logging is niet toegestaan. Combat logging wordt gedefinieerd als uitloggen wanneer RP actief is. Dit geldt ook voor situaties waarin u wordt gevolgd, in gevecht bent of uitlogt kort na het verkopen van goederen..
+-  Combat logging is niet toegestaan. Combat logging wordt gedefinieerd als uitloggen wanneer RP actief is of afgelopen 15 minuten actief is geweest. Dit geldt ook voor situaties waarin u wordt gevolgd, in gevecht bent of uitlogt kort na het verkopen van goederen.
 
 - Als u betrokken bent bij een aanhoudende situatie en u de verbinding met de server verliest, is het uw verantwoordelijkheid om contact op te nemen met degene die bij de situatie betrokken was om hen te informeren over wat er is gebeurd en om tot overeenstemming te komen.
 
