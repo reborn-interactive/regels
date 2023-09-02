@@ -112,7 +112,7 @@
 
 - Het gebruik van een helikopter om duidelijk het pad van een andere opstijgende helikopter te blokkeren, wordt beschouwd als eenrichtingsinitiatie. Spelers die in dezelfde bende zitten als de piloot van de helikopter die wordt geblokkeerd, mogen het vuur openen op de helikopter die het pad blokkeert en op de bendeleden van de piloot.
 
-- Je mag schieten op grondvoertuigen (dit geldt ook voor helikopters aan de grond) om deze uit te schakelen zonder een RP te starten. Nadat het voertuig echter is uitgeschakeld, moeten de schutters het voertuig naderen om een ​​rollenspel met de inzittenden te beginnen.
+- Je mag schieten op grondvoertuigen (dit geldt ook voor helikopters aan de grond) om deze uit te schakelen zonder een RP te starten. Nadat het voertuig echter is uitgeschakeld, moeten de schutters het voertuig naderen om een RP met de inzittenden te beginnen.
 (Schiet je inzittende dood, valt dit gewoon onder RDM)
 
 - Door op een voertuig te schieten kunnen de bestuurder en de chauffeursbende en de passagiers van dat voertuig zich verdedigen. Het gebruik van een spijkermatten om iemands voertuig uit te schakelen, werkt op dezelfde manier.
@@ -128,9 +128,9 @@ Als de uitdrukking "bendeleden" wordt gebruikt, geldt dit ook voor de politie.
 
 1. Kloten om RP te verpesten op welke manier dan ook is niet toegestaan.
 
-- Je mag je in-game microfoon niet gebruiken om anderen te irriteren. Het spelen van muziek of schreeuwen kan de rollenspelervaring van anderen verpesten en is niet toegestaan.
+- Je mag je in-game microfoon niet gebruiken om anderen te irriteren. Het spelen van muziek of schreeuwen kan de RPervaring van anderen verpesten en is niet toegestaan.
 
-- Om effectief met elkaar te kunnen rollenspelen, is het vereist dat je Nederlands spreekt.
+- Om effectief met elkaar te kunnen RP'n, is het vereist dat je Nederlands spreekt.
 
 - Discriminerende, racistische, ongepaste, beledigende of hatelijke manier is niet toegestaan.
 
