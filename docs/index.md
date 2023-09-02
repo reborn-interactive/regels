@@ -42,13 +42,8 @@
 1. Je moet altijd goed onderbouwde motivaties achter je acties hebben.
 
 -  Je moet je leven te allen tijde waarderen. Dit betekent dat als u zich in een situatie bevindt waarin iemand u "ripped" en u in het nadeel bent, u zich moet overgeven en aan hun eisen moet voldoen. Voorbeelden hiervan zijn:
-
     - Je hebt een pistool in je handen en iemand zet een pistool tegen de achterkant van je hoofd en zegt dat je je handen omhoog moet steken of moet worden neergeschoten, in dit geval moet je gehoorzamen.
-
-
     - Je hebt je pistool in een holster en iemand zegt je dat je je handen omhoog moet steken of moet worden neergeschoten, terwijl ze een pistool rechtstreeks op je hebben gericht, in dit geval moet je gehoorzamen.
-
-
     - Je staat stil als bestuurder in een voertuig en iemand richt een pistool op je vanaf de bestuurderskant en vraagt ​​je om “uit te stappen en je handen omhoog te steken of te worden neergeschoten”, in dit geval moet je gehoorzamen.
 
 
@@ -93,9 +88,9 @@
 
 4. Random Death Match, beter bekend als RDM, wordt gedefinieerd als het uitschakelen van een andere speler zonder enige vorm van roleplay, dit is niet toegestaan.
 
-- Als een speler je probeert te RDM'en, of als je bendelid word geRDM'd, mogen jij en je bendeleden terugschieten op de RDM'er en het vuur openen op de bendeleden van de schutter. 
+- Als een speler je probeert te RDM'en, of als je bendelid word geRDM'd, mogen jij en je bendeleden terugschieten op de RDM'er en het vuur openen op de bendeleden van de schutter.
 
-## 5. Rippen
+## 5. Rippen & Vermoorden
 
 !!! note annotate "Verduidelijking"
     Een fysieke dreiging is het duidelijk zichtbaar hebben van een wapen dat op een dreigende manier is gericht op de speler die je aan het rippen bent. De beoogde speler moet voldoende tijd krijgen om de dreiging visueel te herkennen en eraan te voldoen.
@@ -121,8 +116,24 @@
 
 - Elke bende is individueel verantwoordelijk voor het initiëren.
 
-Als de uitdrukking "bendeleden" wordt gebruikt, geldt dit ook voor de politie.
+- Wanneer mag je een moord-actie uitvoeren:
+    - [x] Persoon werkt niet mee met een rip-actie, en heeft voldoende tijd gehad om aan de eisen te voldoen
+    - [x] Persoon die een wapen trekt tijdens een rip-actie
+    - [x] Persoon schiet terug na een "eenrichtingsinitiatie"
+    - [x] Waneer jij of jouw bende een eenrichtingsinitiatie hebben op een andere groep (bv: Jouw voertuig is beschoten)
+    - [x] Als het voertuig door de persoon is beschoten
+    - [x] Als beide personen op of rond "Cayo perico" bevinden
+    - [x] Als de persoon een directe bedreiging geeft aan jou of jouw bendeleden (Let op regel 2.2)
 
+- Waneer mag je geen moord-actie uitvoeren:
+    - [ ] Als een persoon meewerkt met een rip-actie
+    - [ ] Als er een eenrichtingsinitiatie is vanuit jou of jouw gang (bv: Je schiet op een voertuig om het uit te schakelen)
+    - [ ] Waneer er geen duidelijke dreiging is (bijvoorbeeld: "handen omhoog" schreewen zonder zichtbare wapen)
+    - [ ] Om de persoon iets te laten vergeten
+
+- Personeel van de Ambulance en ANWB mogen niet vermoord of gehostaged worden.
+
+Als de uitdrukking "bendeleden" wordt gebruikt, geldt dit ook voor de politie.
 
 ## 6. Gedrag
 
