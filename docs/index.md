@@ -62,7 +62,7 @@
 
     - Uw geld of voertuig stallen terwijl u wordt beroofd.
     - Het opslaan van uw geld of voertuig als iemand een RP met u is begonnen of u volgt..
-    - Alles bewijsmateriaal weggooien in de kluis als politie terwijl je in een actieve situatie bent.
+    - Bewijsmateriaal plaatsen in de kluis als politie terwijl je in een actieve situatie bent.
 
 
 - Combat spawnen is niet toegestaan. Combat spawnen wordt gedefinieerd als het spawnen van een voertuig binnen 500M van een gevechtssituatie. 
@@ -174,7 +174,7 @@ Als de uitdrukking "bendeleden" wordt gebruikt, geldt dit ook voor de politie.
 
 - Streamsniping is niet toegestaan. Als u handelt op of informatie gebruikt die is verzameld uit een stream voor uw eigen voordeel, wordt dit beschouwd als metagaming.
 
-- Het delen van informatie met gangs tijdens het spelen als politie of kmar is niet toegestaan. Dit omvat, maar is niet beperkt tot, het weggeven van politieposities of het delen van politie-informatie zoals tactieken, wapens en gebruikte voertuigen.
+- Het delen van informatie met gangs tijdens het spelen als politie is niet toegestaan. Dit omvat, maar is niet beperkt tot, het weggeven van politieposities of het delen van politie-informatie zoals tactieken, wapens en gebruikte voertuigen.
 
 - Iemands eigendom beroven op basis van informatie die van buiten het spel is verkregen, wordt beschouwd als metagaming en is niet toegestaan.
 
