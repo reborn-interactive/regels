@@ -69,7 +69,7 @@
 
 - Als jij of je groep betrokken zijn bij een overval, dan kun je een voertuig spawnen vanuit een garage op minstens 1 km afstand.
 
-- Als u bent vastgehouden, maar de verantwoordelijke persoon heeft geen moeite gedaan om RP aan te gaan terwijl u dood bent mag je jezelf forceerd respanwen..
+- Als u bent vastgehouden/geboeit terwijl u dood op de grond ligt, maar de verantwoordelijke persoon heeft geen moeite gedaan om RP aan te gaan terwijl mag je jezelf respawnwen.
 
 - Je mag een persoon niet langer dan 1 uur gijzelen. Uitzonderingen kunnen worden gemaakt wanneer de gijzeling uitmondt in een vuurgevecht of wanneer de gijzelaar wordt ingezet voor een bankoverval. Een persoon kan niet voor meer dan één situatie gegijzeld worden.
 
@@ -151,13 +151,13 @@ Als de uitdrukking "bendeleden" wordt gebruikt, geldt dit ook voor de politie.
     - [ ] Je bent RDM'd. Je wordt vermoord zonder geldige reden door een speler.
     - [ ] Je bent VDM'd. Iemand heeft een voertuig gebruikt om je te vermoorden.
     - [ ] Je bent geFailRP'd. Je wordt vermoord om een ​​ongeldige reden.
-    - [ ] Je verbreekt de verbinding en beëindigt uw game.
+    - [ ] U verlaat het spel.
     - [ ] Staff dit aangeeft.
 
 !!! warning annotate "Verduidelijking"
     Let op: Voorafgaand hieraan moet je duidelijk (Video)bewijs hebben van de situatie waar de bovenstaande regels is overtreden!
 
-- Wanneer je toch komt te overleiden:
+- Wanneer je toch komt te overlijden:
     - Je kunt niet terugkeren naar dezelfde situatie.
     - Je kunt niet terugkeren om een ​​voertuig op te halen tot de RP afgerond is.
     - Je kunt je vrienden en eigen groepen wel herinneren.
