@@ -2,6 +2,7 @@ site_name: Reborn Interactive Regels
 theme:
   name: material
   language: nl
+  logo: assets/logo.png
 
   features:
     - toc.follow
