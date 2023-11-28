@@ -1,0 +1,772 @@
+
+<!doctype html>
+<html lang="nl" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+        <link rel="next" href="tebex/">
+      
+      
+      <link rel="icon" href="assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.4.14">
+    
+    
+      
+        <title>Reborn Interactive Regels</title>
+      
+    
+    
+      <link rel="stylesheet" href="assets/stylesheets/main.fad675c6.min.css">
+      
+        
+        <link rel="stylesheet" href="assets/stylesheets/palette.356b1318.min.css">
+      
+      
+
+  
+  
+  
+  
+  <style>:root{--md-annotation-icon:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22 12a10 10 0 0 1-10 10A10 10 0 0 1 2 12 10 10 0 0 1 12 2a10 10 0 0 1 10 10M6 13h8l-3.5 3.5 1.42 1.42L17.84 12l-5.92-5.92L10.5 7.5 14 11H6v2Z"/></svg>');}</style>
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL(".",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="slate" data-md-color-primary="teal" data-md-color-accent="indigo">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#regels" class="md-skip">
+          Ga naar inhoud
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="." title="Reborn Interactive Regels" class="md-header__button md-logo" aria-label="Reborn Interactive Regels" data-md-component="logo">
+      
+  <img src="assets/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Reborn Interactive Regels
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Server-Regels
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Zoeken" placeholder="Zoeken" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Zoeken">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Leegmaken" aria-label="Leegmaken" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Zoeken initialiseren
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigatie" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="." title="Reborn Interactive Regels" class="md-nav__button md-logo" aria-label="Reborn Interactive Regels" data-md-component="logo">
+      
+  <img src="assets/logo.png" alt="logo">
+
+    </a>
+    Reborn Interactive Regels
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Server-Regels
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="." class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Server-Regels
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Inhoudsopgave">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Inhoudsopgave
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-cheaten-exploiten-en-hacken" class="md-nav__link">
+    <span class="md-ellipsis">
+      1. Cheaten, exploiten en hacken
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-roleplay" class="md-nav__link">
+    <span class="md-ellipsis">
+      2. Roleplay
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-vdm" class="md-nav__link">
+    <span class="md-ellipsis">
+      3. VDM
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-rdm" class="md-nav__link">
+    <span class="md-ellipsis">
+      4. RDM
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-rippen-vermoorden" class="md-nav__link">
+    <span class="md-ellipsis">
+      5. Rippen &amp; Vermoorden
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-gedrag" class="md-nav__link">
+    <span class="md-ellipsis">
+      6. Gedrag
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#7-nlr" class="md-nav__link">
+    <span class="md-ellipsis">
+      7. NLR
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#8-metagaming" class="md-nav__link">
+    <span class="md-ellipsis">
+      8. MetaGaming
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="tebex/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tebex-terms
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Inhoudsopgave">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Inhoudsopgave
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-cheaten-exploiten-en-hacken" class="md-nav__link">
+    <span class="md-ellipsis">
+      1. Cheaten, exploiten en hacken
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-roleplay" class="md-nav__link">
+    <span class="md-ellipsis">
+      2. Roleplay
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-vdm" class="md-nav__link">
+    <span class="md-ellipsis">
+      3. VDM
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-rdm" class="md-nav__link">
+    <span class="md-ellipsis">
+      4. RDM
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-rippen-vermoorden" class="md-nav__link">
+    <span class="md-ellipsis">
+      5. Rippen &amp; Vermoorden
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-gedrag" class="md-nav__link">
+    <span class="md-ellipsis">
+      6. Gedrag
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#7-nlr" class="md-nav__link">
+    <span class="md-ellipsis">
+      7. NLR
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#8-metagaming" class="md-nav__link">
+    <span class="md-ellipsis">
+      8. MetaGaming
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<h1 id="regels">Regels</h1>
+<figure>
+<p><img alt="Image title" src="https://cdn.discordapp.com/attachments/995125085478330450/1144641888977166507/r.png" width="250" />
+  </p>
+<figcaption>Laatste update: 03-09-2023</figcaption>
+</figure>
+<div class="admonition abstract annotate">
+<p class="admonition-title">Voorwoord</p>
+<p>Bedankt voor uw bezoek aan onze serverregelspagina. Je hebt met succes de eerste stap voltooid om een ​​gerespecteerd lid van onze community te worden. Wij zijn een serieuze RP-Community en onze serverregels zijn een cruciaal onderdeel van het spelen op onze gameservers. Ze onderscheiden onze server van alle anderen. Daarom verwachten we dat u de tijd neemt om de regels door te lezen en er praktische kennis van te krijgen. Elke regel is van toepassing op elk lid dat deel uitmaakt van onze community.</p>
+<p>Als je betrapt dat een speler een van de onderstaande regels overtreedt, probeer dan eerst met hem of haar te praten voordat je een klacht maakt meldt. Het oplossen van problemen bespaart ons en uzelf tijd. Als u er niet in slaagt een probleem met een medespeler op te lossen, kan je via /report een staff in-game benaderen of kan je een ticket aanmaken in onze discord.</p>
+<p>Als u niet zeker weet of iets wel of niet is toegestaan, kunt u een staflid om hun mening vragen.</p>
+</div>
+<p><a class="md-button md-button--primary" href="https://discord.com/invite/reborn-rp">Onze discord <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M524.531 69.836a1.5 1.5 0 0 0-.764-.7A485.065 485.065 0 0 0 404.081 32.03a1.816 1.816 0 0 0-1.923.91 337.461 337.461 0 0 0-14.9 30.6 447.848 447.848 0 0 0-134.426 0 309.541 309.541 0 0 0-15.135-30.6 1.89 1.89 0 0 0-1.924-.91 483.689 483.689 0 0 0-119.688 37.107 1.712 1.712 0 0 0-.788.676C39.068 183.651 18.186 294.69 28.43 404.354a2.016 2.016 0 0 0 .765 1.375 487.666 487.666 0 0 0 146.825 74.189 1.9 1.9 0 0 0 2.063-.676A348.2 348.2 0 0 0 208.12 430.4a1.86 1.86 0 0 0-1.019-2.588 321.173 321.173 0 0 1-45.868-21.853 1.885 1.885 0 0 1-.185-3.126 251.047 251.047 0 0 0 9.109-7.137 1.819 1.819 0 0 1 1.9-.256c96.229 43.917 200.41 43.917 295.5 0a1.812 1.812 0 0 1 1.924.233 234.533 234.533 0 0 0 9.132 7.16 1.884 1.884 0 0 1-.162 3.126 301.407 301.407 0 0 1-45.89 21.83 1.875 1.875 0 0 0-1 2.611 391.055 391.055 0 0 0 30.014 48.815 1.864 1.864 0 0 0 2.063.7A486.048 486.048 0 0 0 610.7 405.729a1.882 1.882 0 0 0 .765-1.352c12.264-126.783-20.532-236.912-86.934-334.541ZM222.491 337.58c-28.972 0-52.844-26.587-52.844-59.239s23.409-59.241 52.844-59.241c29.665 0 53.306 26.82 52.843 59.239 0 32.654-23.41 59.241-52.843 59.241Zm195.38 0c-28.971 0-52.843-26.587-52.843-59.239s23.409-59.241 52.843-59.241c29.667 0 53.307 26.82 52.844 59.239 0 32.654-23.177 59.241-52.844 59.241Z"/></svg></span></a> <a class="md-button" href="https://discord.gg/StxSthaSgn">Support discord <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M524.531 69.836a1.5 1.5 0 0 0-.764-.7A485.065 485.065 0 0 0 404.081 32.03a1.816 1.816 0 0 0-1.923.91 337.461 337.461 0 0 0-14.9 30.6 447.848 447.848 0 0 0-134.426 0 309.541 309.541 0 0 0-15.135-30.6 1.89 1.89 0 0 0-1.924-.91 483.689 483.689 0 0 0-119.688 37.107 1.712 1.712 0 0 0-.788.676C39.068 183.651 18.186 294.69 28.43 404.354a2.016 2.016 0 0 0 .765 1.375 487.666 487.666 0 0 0 146.825 74.189 1.9 1.9 0 0 0 2.063-.676A348.2 348.2 0 0 0 208.12 430.4a1.86 1.86 0 0 0-1.019-2.588 321.173 321.173 0 0 1-45.868-21.853 1.885 1.885 0 0 1-.185-3.126 251.047 251.047 0 0 0 9.109-7.137 1.819 1.819 0 0 1 1.9-.256c96.229 43.917 200.41 43.917 295.5 0a1.812 1.812 0 0 1 1.924.233 234.533 234.533 0 0 0 9.132 7.16 1.884 1.884 0 0 1-.162 3.126 301.407 301.407 0 0 1-45.89 21.83 1.875 1.875 0 0 0-1 2.611 391.055 391.055 0 0 0 30.014 48.815 1.864 1.864 0 0 0 2.063.7A486.048 486.048 0 0 0 610.7 405.729a1.882 1.882 0 0 0 .765-1.352c12.264-126.783-20.532-236.912-86.934-334.541ZM222.491 337.58c-28.972 0-52.844-26.587-52.844-59.239s23.409-59.241 52.844-59.241c29.665 0 53.306 26.82 52.843 59.239 0 32.654-23.41 59.241-52.843 59.241Zm195.38 0c-28.971 0-52.843-26.587-52.843-59.239s23.409-59.241 52.843-59.241c29.667 0 53.307 26.82 52.844 59.239 0 32.654-23.177 59.241-52.844 59.241Z"/></svg></span></a></p>
+<h2 id="1-cheaten-exploiten-en-hacken">1. Cheaten, exploiten en hacken</h2>
+<ol>
+<li>Het gebruik van enige vorm van cheat, script of hack is niet toegestaan.</li>
+<li>
+<p>Elke vorm van exploiting is niet toegestaan. Enkele voorbeelden hiervan zijn:</p>
+<ul>
+<li>Duplicatie van items en/of geld.</li>
+<li>Elke vorm van bug in het spel misbruiken in je eigen voordeel</li>
+<li>Bestaande regels omzeilen of misbruiken in je eigen voordeel.</li>
+<li>Geven van spullen door muren.</li>
+<li>AFK gaan als job voor loon.</li>
+<li>Macro's gebruiken.</li>
+<li>Gebruik maken van een taser zonder de juiste job.</li>
+<li>Een animatie niet volledig laten voltooien.</li>
+<li>Overschakelen van de bestuurder naar de achterbank terwijl het voertuig rijdt.</li>
+<li>Misbruik maken van mensen op te tillen.</li>
+</ul>
+<p>Dit zijn slechts voorbeelden en kunnen niet elke mogelijke exploitmethode dekken. Er zijn veel andere manieren waarop men spel- of servermechanismen en glitches in zijn eigen voordeel kan gebruiken. Eenmaal betrapt, wordt de speler verbannen. </p>
+</li>
+<li>
+<p>Bans zijn van toepassing op jou als persoon, wat betekent dat je geen ander account kunt gebruiken om de oorspronkelijke ban te omzeilen. Iedereen die betrapt wordt op het ontduiken van een ban of het helpen van anderen om hun ban te omzeilen, zal worden onderworpen aan een ban op alle gebruikte accounts. Als je vermoedt dat iemand een ban ontwijkt, meld je dan in een ticket.</p>
+</li>
+<li>
+<p>Het is niet toegestaan ​​om op twee of meer accounts tegelijk te spelen om jezelf een oneerlijk voordeel te geven ten opzichte van andere spelers. Enkele voorbeelden hiervan zijn:</p>
+<ul>
+<li>Een tweede account gebruiken bij UWV jobs.</li>
+<li>Items opslaan in de spelersinventaris van een tweede account om te voorkomen dat ze worden beroofd</li>
+</ul>
+</li>
+</ol>
+<h2 id="2-roleplay">2. Roleplay</h2>
+<ol>
+<li>
+<p>Je moet altijd goed onderbouwde motivaties achter je acties hebben.</p>
+</li>
+<li>
+<p>Je moet je leven te allen tijde waarderen. Dit betekent dat als u zich in een situatie bevindt waarin iemand u "ripped" en u in het nadeel bent, u zich moet overgeven en aan hun eisen moet voldoen. Voorbeelden hiervan zijn:</p>
+<ul>
+<li>Je hebt een pistool in je handen en iemand zet een pistool tegen de achterkant van je hoofd en zegt dat je je handen omhoog moet steken of moet worden neergeschoten, in dit geval moet je gehoorzamen.</li>
+<li>Je hebt je pistool in een holster en iemand zegt je dat je je handen omhoog moet steken of moet worden neergeschoten, terwijl ze een pistool rechtstreeks op je hebben gericht, in dit geval moet je gehoorzamen.</li>
+<li>Je staat stil als bestuurder in een voertuig en iemand richt een pistool op je vanaf de bestuurderskant en vraagt ​​je om “uit te stappen en je handen omhoog te steken of te worden neergeschoten”, in dit geval moet je gehoorzamen.</li>
+</ul>
+</li>
+<li>
+<p>U mag het RP op geen enkele manier onderbreken. De enige uitzondering is om een ​​nieuwe speler te helpen als ze niet op de hoogte zijn van bepaalde besturingselementen. In dat geval mag je de besturingselementen naar hen typen via /me.</p>
+</li>
+<li>
+<p>Combat logging is niet toegestaan. Combat logging wordt gedefinieerd als uitloggen wanneer RP actief is of afgelopen 15 minuten actief is geweest. Dit geldt ook voor situaties waarin u wordt gevolgd, in gevecht bent of uitlogt kort na het verkopen van goederen.</p>
+</li>
+<li>
+<p>Als u betrokken bent bij een aanhoudende situatie en u de verbinding met de server verliest, is het uw verantwoordelijkheid om contact op te nemen met degene die bij de situatie betrokken was om hen te informeren over wat er is gebeurd en om tot overeenstemming te komen.</p>
+</li>
+<li>
+<p>Gevechtsopslag is niet toegestaan. Gevechtsopslag wordt gedefinieerd als het opslaan van geld of een voertuig terwijl u zich in een actieve situatie bevindt of het duidelijk is dat iemand probeert er een te starten. Voorbeelden hiervan zijn:</p>
+<ul>
+<li>Uw geld of voertuig stallen terwijl u wordt beroofd.</li>
+<li>Het opslaan van uw geld of voertuig als iemand een RP met u is begonnen of u volgt..</li>
+<li>Bewijsmateriaal plaatsen in de kluis als politie terwijl je in een actieve situatie bent.</li>
+</ul>
+</li>
+<li>
+<p>Combat spawnen is niet toegestaan. Combat spawnen wordt gedefinieerd als het spawnen van een voertuig binnen 500M van een gevechtssituatie. </p>
+</li>
+<li>
+<p>Als jij of je groep betrokken zijn bij een overval, dan kun je een voertuig spawnen vanuit een garage op minstens 1 km afstand.</p>
+</li>
+<li>
+<p>Als u bent vastgehouden/geboeit terwijl u dood op de grond ligt, maar de verantwoordelijke persoon heeft geen moeite gedaan om RP aan te gaan terwijl mag je jezelf respawnwen.</p>
+</li>
+<li>
+<p>Je mag een persoon niet langer dan 1 uur gijzelen. Uitzonderingen kunnen worden gemaakt wanneer de gijzeling uitmondt in een vuurgevecht of wanneer de gijzelaar wordt ingezet voor een bankoverval. Een persoon kan niet voor meer dan één situatie gegijzeld worden.</p>
+</li>
+<li>
+<p>Iemand anders die een regel overtreedt, staat u niet toe hetzelfde te doen. Als je een situatie tegenkomt waar je het niet mee eens bent, blijf dan bij je karakter en probeer de situatie achteraf op te lossen met behulp van een ticket en/of discord.</p>
+</li>
+<li>
+<p>De rebellen-licentie is een prestatie voor langetermijnspelers. Iedereen die het misbruikt of de gameplay van nieuwe spelers bederft, kan ertoe leiden dat de licentie van hen wordt verwijderd, bijvoorbeeld door UWV jobs te beroven.</p>
+</li>
+<li>
+<p>Het opzettelijk blokkeren van een garage spawn met je voertuig is niet toegestaan.</p>
+</li>
+</ol>
+<h2 id="3-vdm">3. VDM</h2>
+<ol>
+<li>
+<p>Vehicular Death Match, beter bekend als VDM, wordt gedefinieerd als het gebruiken van je voertuig om opzettelijk (of poging tot) spelers aan te rijden met kwaadaardige bedoelingen. Dit is niet toegestaan</p>
+</li>
+<li>
+<p>Het “pitten” om andere voertuigen te immobiliseren is toegestaan ​​na voorgaande RP en als de snelheid lager is dan 150 KM/H. (Motor max 50 KM/H)</p>
+</li>
+<li>
+<p>Breakchecking wordt beschouwd als een vorm van VDM en is niet toegestaan.</p>
+</li>
+<li>
+<p>Als u het slachtoffer bent van opzettelijke VDM, mogen u en uw groep de bestuurder en de passagiers van het voertuig dat u heeft aangereden, neerschieten.</p>
+</li>
+</ol>
+<h2 id="4-rdm">4. RDM</h2>
+<ol>
+<li>
+<p>Random Death Match, beter bekend als RDM, wordt gedefinieerd als het uitschakelen van een andere speler zonder enige vorm van roleplay, dit is niet toegestaan.</p>
+</li>
+<li>
+<p>Als een speler je probeert te RDM'en, of als je bendelid word geRDM'd, mogen jij en je bendeleden terugschieten op de RDM'er en het vuur openen op de bendeleden van de schutter.</p>
+</li>
+</ol>
+<h2 id="5-rippen-vermoorden">5. Rippen &amp; Vermoorden</h2>
+<div class="admonition note annotate">
+<p class="admonition-title">Verduidelijking</p>
+<p>Een fysieke dreiging is het duidelijk zichtbaar hebben van een wapen dat op een dreigende manier is gericht op de speler die je aan het rippen bent. De beoogde speler moet voldoende tijd krijgen om de dreiging visueel te herkennen en eraan te voldoen.</p>
+<p>Voorbeelden van geldige rippen:</p>
+<ul>
+<li>Met pistool duidelijk zichtbaar met  dat je een duidelijke eis stelt bijvoorbeeld: "steek je handen omhoog".</li>
+<li>Zonder dat het pistool duidelijk zichtbaar is en zegt "steek je hand op of je wordt neergeschoten".</li>
+<li>Bij het rippen van een rijdend voertuig zegt u "stap uit het voertuig en steek uw handen omhoog".</li>
+</ul>
+</div>
+<ol>
+<li>
+<p>Om rippen geldig te laten zijn, moet er een duidelijke fysieke of verbale dreiging zijn.</p>
+</li>
+<li>
+<p>Wanneer een speler wordt gedood en vervolgens weer tot leven wordt gewekt door een ambulance, moet de speler in een realistische manier “hervatten” voordat hij schiet.</p>
+</li>
+<li>
+<p>Het gebruik van een helikopter om duidelijk het pad van een andere opstijgende helikopter te blokkeren, wordt beschouwd als eenrichtingsinitiatie. Spelers die in dezelfde bende zitten als de piloot van de helikopter die wordt geblokkeerd, mogen het vuur openen op de helikopter die het pad blokkeert en op de bendeleden van de piloot.</p>
+</li>
+<li>
+<p>Je mag schieten op grondvoertuigen (dit geldt ook voor helikopters aan de grond) om deze uit te schakelen zonder een RP te starten. Nadat het voertuig echter is uitgeschakeld, moeten de schutters het voertuig naderen om een RP met de inzittenden te beginnen.
+(Schiet je inzittende dood, valt dit gewoon onder RDM)</p>
+</li>
+<li>
+<p>Door op een voertuig te schieten kunnen de bestuurder en de chauffeursbende en de passagiers van dat voertuig zich verdedigen. Het gebruik van een spijkermatten om iemands voertuig uit te schakelen, werkt op dezelfde manier.</p>
+</li>
+<li>
+<p>Iemand neerslaan wordt beschouwd als een eenrichtingsinitiatie, wat inhoudt dat je de persoon mag doden die je knock-out heeft geslagen en de bendeleden van die persoon.</p>
+</li>
+<li>
+<p>Elke bende is individueel verantwoordelijk voor het initiëren.</p>
+</li>
+<li>
+<p>Wanneer mag je een moord-actie uitvoeren:</p>
+<ul class="task-list">
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled checked/><span class="task-list-indicator"></span></label> Persoon werkt niet mee met een rip-actie, en heeft voldoende tijd gehad om aan de eisen te voldoen</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled checked/><span class="task-list-indicator"></span></label> Persoon die een wapen trekt tijdens een rip-actie</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled checked/><span class="task-list-indicator"></span></label> Persoon schiet terug na een "eenrichtingsinitiatie"</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled checked/><span class="task-list-indicator"></span></label> Waneer jij of jouw bende een eenrichtingsinitiatie hebben op een andere groep (bv: Jouw voertuig is beschoten)</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled checked/><span class="task-list-indicator"></span></label> Als het voertuig door de persoon is beschoten</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled checked/><span class="task-list-indicator"></span></label> Als beide personen op of rond "Cayo perico" bevinden</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled checked/><span class="task-list-indicator"></span></label> Als de persoon een directe bedreiging geeft aan jou of jouw bendeleden (Let op regel 2.2)</li>
+</ul>
+</li>
+<li>
+<p>Waneer mag je geen moord-actie uitvoeren:</p>
+<ul class="task-list">
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> Als een persoon meewerkt met een rip-actie</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> Als er een eenrichtingsinitiatie is vanuit jou of jouw gang (bv: Je schiet op een voertuig om het uit te schakelen)</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> Waneer er geen duidelijke dreiging is (bijvoorbeeld: "handen omhoog" schreewen zonder zichtbare wapen)</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> Om de persoon iets te laten vergeten</li>
+</ul>
+</li>
+<li>
+<p>Personeel van de Ambulance en ANWB mogen niet vermoord of gehostaged worden.</p>
+</li>
+</ol>
+<p>Als de uitdrukking "bendeleden" wordt gebruikt, geldt dit ook voor de politie.</p>
+<h2 id="6-gedrag">6. Gedrag</h2>
+<ol>
+<li>
+<p>Kloten om RP te verpesten op welke manier dan ook is niet toegestaan.</p>
+</li>
+<li>
+<p>Je mag je in-game microfoon niet gebruiken om anderen te irriteren. Het spelen van muziek of schreeuwen kan de RPervaring van anderen verpesten en is niet toegestaan.</p>
+</li>
+<li>
+<p>Om effectief met elkaar te kunnen RP'n, is het vereist dat je Nederlands spreekt.</p>
+</li>
+<li>
+<p>Discriminerende, racistische, ongepaste, beledigende of hatelijke manier is niet toegestaan.</p>
+</li>
+<li>
+<p>Namen van spelers of bendes mogen niet aanstootgevend zijn voor anderen, noch mogen ze in verband worden gebracht met illegale groepen of personen die iemand kunnen of zullen beledigen. Voorbeelden hiervan zijn real-life terroristische organisaties, religieuze groeperingen en andere controversiële onderwerpen.</p>
+</li>
+<li>
+<p>Je mag geen in-game content verkopen of verhandelen voor enige vorm van betaling buiten het spel om.</p>
+</li>
+</ol>
+<h2 id="7-nlr">7. NLR</h2>
+<div class="admonition note annotate">
+<p class="admonition-title">Verduidelijking</p>
+<p>Een nieuw leven betekent dat als je sterft, je personage alle eerdere herinneringen, gebeurtenissen en informatie die tot zijn dood hebben geleid, heeft verloren. Je mag geen actie ondernemen op basis van deze eerdere informatie.</p>
+</div>
+<ol>
+<li>
+<p>Een nieuw leven begint wanneer:</p>
+<ul class="task-list">
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled checked/><span class="task-list-indicator"></span></label> Je personage is op een legitieme manier gestorven.</li>
+</ul>
+</li>
+<li>
+<p>Een nieuw leven begint niet als:</p>
+<ul class="task-list">
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> Je bent RDM'd. Je wordt vermoord zonder geldige reden door een speler.</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> Je bent VDM'd. Iemand heeft een voertuig gebruikt om je te vermoorden.</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> Je bent geFailRP'd. Je wordt vermoord om een ​​ongeldige reden.</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> U verlaat het spel.</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> Staff dit aangeeft.</li>
+</ul>
+</li>
+</ol>
+<div class="admonition warning annotate">
+<p class="admonition-title">Verduidelijking</p>
+<p>Let op: Voorafgaand hieraan moet je duidelijk (Video)bewijs hebben van de situatie waar de bovenstaande regels is overtreden!</p>
+</div>
+<ul>
+<li>Wanneer je toch komt te overlijden:<ul>
+<li>Je kunt niet terugkeren naar dezelfde situatie.</li>
+<li>Je kunt niet terugkeren om een ​​voertuig op te halen tot de RP afgerond is.</li>
+<li>Je kunt je vrienden en eigen groepen wel herinneren.</li>
+<li>De komende 24 uur mag is het niet toegestaan om deel te nemen aan een RP scenario tegenover de groep, gang of persoon waardoor je vermoord bent.</li>
+<li>Je moet minimaal 500M verwijderd blijven van de plaats van uw vorige overlijden gedurende minimaal 15 minuten.</li>
+</ul>
+</li>
+</ul>
+<h2 id="8-metagaming">8. MetaGaming</h2>
+<ol>
+<li>
+<p>Metagaming, wat wordt gedefinieerd als een actie waarbij een speler gebruik maakt van kennis waarvan de speler op de hoogte is, maar waarvan het personage niet op de hoogte mag of kan zijn, dit is niet toegestaan.</p>
+</li>
+<li>
+<p>Je mag de intenties of locaties van mensen niet onthullen buiten het spel om</p>
+</li>
+<li>
+<p>Als je wordt vastgehouden en je communicatie in beslag is genomen, mag je geen andere communicatiemethode gebruiken dan directe praten in-game.</p>
+</li>
+<li>
+<p>Streamsniping is niet toegestaan. Als u handelt op of informatie gebruikt die is verzameld uit een stream voor uw eigen voordeel, wordt dit beschouwd als metagaming.</p>
+</li>
+<li>
+<p>Het delen van informatie met gangs tijdens het spelen als politie is niet toegestaan. Dit omvat, maar is niet beperkt tot, het weggeven van politieposities of het delen van politie-informatie zoals tactieken, wapens en gebruikte voertuigen.</p>
+</li>
+<li>
+<p>Iemands eigendom beroven op basis van informatie die van buiten het spel is verkregen, wordt beschouwd als metagaming en is niet toegestaan.</p>
+</li>
+<li>
+<p>Powergaming is niet toegestaan, je mag andere spelers niet in situaties brengen die niet mogelijk zijn binnen de mechanics van het spel. Een voorbeeld zou zijn dat je bomgorden hebt tijdens een beroving of  "Ik heb mijn vingerafdrukscanner gebruikt en je naam is teruggekomen als klaas vaak"</p>
+</li>
+</ol>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2023 Reborn
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": ".", "features": ["toc.follow"], "search": "assets/javascripts/workers/search.f886a092.min.js", "translations": {"clipboard.copied": "Gekopieerd naar klembord", "clipboard.copy": "Kopi\u00ebren naar klembord", "search.result.more.one": "1 extra overeenkomst op deze pagina", "search.result.more.other": "# extra overeenkomsten op deze pagina", "search.result.none": "Geen overeenkomende documenten", "search.result.one": "1 overeenkomende document", "search.result.other": "# overeenkomende documenten", "search.result.placeholder": "Typ om te beginnen met zoeken", "search.result.term.missing": "Ontbreekt", "select.version": "Selecteer versie"}}</script>
+    
+    
+      <script src="assets/javascripts/bundle.cd18aaf1.min.js"></script>
+      
+    
+  </body>
+</html>
