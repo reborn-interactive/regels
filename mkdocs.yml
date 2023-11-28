@@ -17,6 +17,7 @@ theme:
 
 nav:
   - Server-Regels: index.md
+  - Tebex-terms: tebex.md
 copyright: Copyright &copy; 2023 Reborn
 
 markdown_extensions:
