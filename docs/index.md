@@ -2,7 +2,7 @@
 
 <figure markdown>
   ![Image title](https://cdn.discordapp.com/attachments/995125085478330450/1144641888977166507/r.png){ width="250" }
-  <figcaption>Laatste update: 03-09-2023</figcaption>
+  <figcaption>Laatste update: 08-02-2024</figcaption>
 </figure>
 
 
@@ -75,7 +75,22 @@
 
 - Het opzettelijk blokkeren van een garage spawn met je voertuig is niet toegestaan.
 
-## 3. VDM
+## 3. Vliegen zonder vliegbrevet
+
+Het besturen van een vliegtuig, helikopter of ander voertuig wat vliegt is niet toegestaan. 
+
+## 4. GTA Drivestyle
+GTA Drivestyle verwijst naar het onrealistische rijgedrag in een voertuig, dat in werkelijkheid niet zou kunnen.
+
+Enkele voorbeelden van GTA Drivestyle zijn:
+
+Opzettelijk stunts uitvoeren met je voertuig;
+Met boten opzettelijk aan land gaan;
+Met een on-road voertuig opzettelijk off-road rijden;
+Het is niet toegestaan om te vliegen zonder brevet;
+Het rammen/onnodig beuken van andere voertuigen zonder enige reden.
+
+## 5. VDM
 
 3. Vehicular Death Match, beter bekend als VDM, wordt gedefinieerd als het gebruiken van je voertuig om opzettelijk (of poging tot) spelers aan te rijden met kwaadaardige bedoelingen. Dit is niet toegestaan
 
@@ -85,37 +100,23 @@
 
 - Als u het slachtoffer bent van opzettelijke VDM, mogen u en uw groep de bestuurder en de passagiers van het voertuig dat u heeft aangereden, neerschieten.
 
-## 4. RDM
+## 6. RDM
 
 4. Random Death Match, beter bekend als RDM, wordt gedefinieerd als het uitschakelen van een andere speler zonder enige vorm van roleplay, dit is niet toegestaan.
 
 - Als een speler je probeert te RDM'en, of als je bendelid word geRDM'd, mogen jij en je bendeleden terugschieten op de RDM'er en het vuur openen op de bendeleden van de schutter.
 
-## 5. Rippen & Vermoorden
+## 7. Rippen & Vermoorden
 
 !!! note annotate "Verduidelijking"
-    Een fysieke dreiging is het duidelijk zichtbaar hebben van een wapen dat op een dreigende manier is gericht op de speler die je aan het rippen bent. De beoogde speler moet voldoende tijd krijgen om de dreiging visueel te herkennen en eraan te voldoen.
+    Het overvallen/rippen van personen is toegestaan. Hieraan zijn een aantal voorwaarden verbonden die streng gehandhaafd worden. Hieronder staan een aantal voorbeelden.
 
-    Voorbeelden van geldige rippen:
+Regels omtrent het rippen:
 
-    - Met pistool duidelijk zichtbaar met  dat je een duidelijke eis stelt bijvoorbeeld: "steek je handen omhoog".
-    - Zonder dat het pistool duidelijk zichtbaar is en zegt "steek je hand op of je wordt neergeschoten".
-    - Bij het rippen van een rijdend voertuig zegt u "stap uit het voertuig en steek uw handen omhoog".
-
-1.  Om rippen geldig te laten zijn, moet er een duidelijke fysieke of verbale dreiging zijn.
-
--  Wanneer een speler wordt gedood en vervolgens weer tot leven wordt gewekt door een ambulance, moet de speler in een realistische manier “hervatten” voordat hij schiet.
-
+- Het rippen van mensen die een gelicenseerde job uitvoeren is niet toegestaan. Mochten personen dit gebruiken als excuus om niet geripped te worden terwijl ze zelf criminele activiteiten uitvoeren is dit echter wel toegestaan.
+- Het rippen van nieuwe personen is niet toegestaan. Deze mensen verdienen het om een goede speelervaring te hebben en moeten daarvoor ook de vrijheid krijgen.
 - Het gebruik van een helikopter om duidelijk het pad van een andere opstijgende helikopter te blokkeren, wordt beschouwd als eenrichtingsinitiatie. Spelers die in dezelfde bende zitten als de piloot van de helikopter die wordt geblokkeerd, mogen het vuur openen op de helikopter die het pad blokkeert en op de bendeleden van de piloot.
-
-- Je mag schieten op grondvoertuigen (dit geldt ook voor helikopters aan de grond) om deze uit te schakelen zonder een RP te starten. Nadat het voertuig echter is uitgeschakeld, moeten de schutters het voertuig naderen om een RP met de inzittenden te beginnen.
-(Schiet je inzittende dood, valt dit gewoon onder RDM)
-
-- Door op een voertuig te schieten kunnen de bestuurder en de chauffeursbende en de passagiers van dat voertuig zich verdedigen. Het gebruik van een spijkermatten om iemands voertuig uit te schakelen, werkt op dezelfde manier.
-
-- Iemand neerslaan wordt beschouwd als een eenrichtingsinitiatie, wat inhoudt dat je de persoon mag doden die je knock-out heeft geslagen en de bendeleden van die persoon.
-
-- Elke bende is individueel verantwoordelijk voor het initiëren.
+- Je mag schieten op grondvoertuigen (dit geldt ook voor helikopters aan de grond) om deze uit te schakelen zonder een RP te starten. Nadat het voertuig echter is uitgeschakeld, moeten de schutters het voertuig naderen om een RP met de inzittenden te beginnen. (Schiet je inzittende dood, valt dit gewoon onder RDM)
 
 - Wanneer mag je een moord-actie uitvoeren:
     - [x] Persoon werkt niet mee met een rip-actie, en heeft voldoende tijd gehad om aan de eisen te voldoen
@@ -136,7 +137,7 @@
 
 Als de uitdrukking "bendeleden" wordt gebruikt, geldt dit ook voor de politie.
 
-## 6. Gedrag
+## 8. Gedrag
 
 1. Kloten om RP te verpesten op welke manier dan ook is niet toegestaan.
 
@@ -151,7 +152,7 @@ Als de uitdrukking "bendeleden" wordt gebruikt, geldt dit ook voor de politie.
 - Je mag geen in-game content verkopen of verhandelen voor enige vorm van betaling buiten het spel om.
 
 
-## 7. NLR
+## 9. NLR
 
 !!! note annotate "Verduidelijking"
     Een nieuw leven betekent dat als je sterft, je personage alle eerdere herinneringen, gebeurtenissen en informatie die tot zijn dood hebben geleid, heeft verloren. Je mag geen actie ondernemen op basis van deze eerdere informatie.
@@ -176,8 +177,26 @@ Als de uitdrukking "bendeleden" wordt gebruikt, geldt dit ook voor de politie.
     - De komende 24 uur mag is het niet toegestaan om deel te nemen aan een RP scenario tegenover de groep, gang of persoon waardoor je vermoord bent.
     - Je moet minimaal 500M verwijderd blijven van de plaats van uw vorige overlijden gedurende minimaal 15 minuten.
 
+## 10. Oplichten / Scammen
+Scammen/oplichten is niet toegestaan bij de onderstaande onderdelen:
 
-## 8. MetaGaming
+Het stelen van bankgeld
+
+Oplichten van baan gerelateerde voorwerpen
+Overheids voorwerpen
+Iemand zijn huis onder dwang leeg roven
+Iemand oplichten in de autohandel ( Het is wel je eigen verantwoordelijkheid om te controleren op tunes )
+Het rippen van eigen gangleden die 3 weken nieuw zijn.
+
+Scammen/oplichten is toegestaan met spullen betrekking tot de criminaliteit.
+
+Het oplichten van drugs
+
+Het oplichten van zwartgeld
+Het oplichten van criminele gerelateerde spullen (Wapens)
+Oplichten is toegestaan met een maximum van €20.000,-
+
+## 11. MetaGaming
 1.  Metagaming, wat wordt gedefinieerd als een actie waarbij een speler gebruik maakt van kennis waarvan de speler op de hoogte is, maar waarvan het personage niet op de hoogte mag of kan zijn, dit is niet toegestaan.
 
 - Je mag de intenties of locaties van mensen niet onthullen buiten het spel om
@@ -191,3 +210,13 @@ Als de uitdrukking "bendeleden" wordt gebruikt, geldt dit ook voor de politie.
 - Iemands eigendom beroven op basis van informatie die van buiten het spel is verkregen, wordt beschouwd als metagaming en is niet toegestaan.
 
 - Powergaming is niet toegestaan, je mag andere spelers niet in situaties brengen die niet mogelijk zijn binnen de mechanics van het spel. Een voorbeeld zou zijn dat je bomgorden hebt tijdens een beroving of  "Ik heb mijn vingerafdrukscanner gebruikt en je naam is teruggekomen als klaas vaak"
+
+## 12. Copbaiten
+Wanneer iemand informatie uit een livestream gebruikt om de streamer op te zoeken, wordt dit beschouwd als stream-sniping. De informatie die ze hierbij verkrijgen kan ook worden beschouwd als metagaming, aangezien het buiten het normale spelverloop valt en extern verkregen kennis gebruikt om het spel te beïnvloeden. Toxic gedrag
+
+Het vertonen van ongepast gedrag/ toxic gedrag is niet toegestaan. Staff heeft de bevoegdheid om te bepalen wat als ongepast gedrag wordt beschouwd. Indien iemand aangeeft dat ze last hebben van jouw gedrag, wordt van je verwacht dat je jouw gedrag aanpast.
+
+## 13. Combatlogging
+Combatloggen betekent het verlaten van het spel tijdens een roleplay scenario zonder geldige reden.
+
+Als je om welke reden dan ook uit de stad wordt verwijderd, heb je vijf minuten de tijd om terug te keren. Als je door speciale omstandigheden de stad moet verlaten, moet je dit eerst bespreken met de betrokkenen bij het scenario. Handelen zonder communicatie kan leiden tot straf, dus communiceer altijd!
