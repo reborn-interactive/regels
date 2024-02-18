@@ -96,7 +96,7 @@ Het rammen/onnodig beuken van andere voertuigen zonder enige reden.
 
 - Het “pitten” om andere voertuigen te immobiliseren is toegestaan ​​na voorgaande RP en als de snelheid lager is dan 150 KM/H. (Motor max 50 KM/H)
 
-- Breakchecking wordt beschouwd als een vorm van VDM en is niet toegestaan.
+- Break checking wordt beschouwd als een vorm van VDM en is niet toegestaan.
 
 - Als u het slachtoffer bent van opzettelijke VDM, mogen u en uw groep de bestuurder en de passagiers van het voertuig dat u heeft aangereden, neerschieten.
 
