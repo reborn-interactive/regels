@@ -14,7 +14,7 @@
 
     Als u niet zeker weet of iets wel of niet is toegestaan, kunt u een staflid om hun mening vragen.
 
-[Onze discord :fontawesome-brands-discord:](https://discord.com/invite/reborn-rp){ .md-button .md-button--primary} [Support discord :fontawesome-brands-discord:](https://discord.gg/StxSthaSgn){ .md-button}
+[Onze discord :fontawesome-brands-discord:](https://discord.com/invite/reborninteractive){ .md-button .md-button--primary} [Support discord :fontawesome-brands-discord:](https://discord.gg/StxSthaSgn){ .md-button}
 
 ## 1. Cheaten, exploiten en hacken
 1.  Het gebruik van enige vorm van cheat, script of hack is niet toegestaan.
