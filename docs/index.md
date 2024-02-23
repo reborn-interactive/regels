@@ -223,4 +223,4 @@ Als je om welke reden dan ook uit de stad wordt verwijderd, heb je vijf minuten 
 
 ## 14. Overheidsfuncties
 
-Als jij in-dienst bent als overheidsjob dan is het niet toegestaan om een overheidsbaan uit te voeren. Doe je dit toch kan je aangesproken worden door leidinggevenden van de baan of van staffleden.
+Als jij in-dienst bent als overheidsjob dan is het niet toegestaan om een licensed uit te voeren. Doe je dit toch kan je aangesproken worden door leidinggevenden van de baan of van staffleden.
