@@ -14,7 +14,7 @@
 
     Als u niet zeker weet of iets wel of niet is toegestaan, kunt u een staflid om hun mening vragen.
 
-[Onze discord :fontawesome-brands-discord:](https://discord.com/invite/reborn-rp){ .md-button .md-button--primary} [Support discord :fontawesome-brands-discord:](https://discord.gg/StxSthaSgn){ .md-button}
+[Onze discord :fontawesome-brands-discord:](https://discord.com/invite/reborninteractive){ .md-button .md-button--primary} [Support discord :fontawesome-brands-discord:](https://discord.gg/StxSthaSgn){ .md-button}
 
 ## 1. Cheaten, exploiten en hacken
 1.  Het gebruik van enige vorm van cheat, script of hack is niet toegestaan.
@@ -96,7 +96,7 @@ Het rammen/onnodig beuken van andere voertuigen zonder enige reden.
 
 - Het “pitten” om andere voertuigen te immobiliseren is toegestaan ​​na voorgaande RP en als de snelheid lager is dan 150 KM/H. (Motor max 50 KM/H)
 
-- Breakchecking wordt beschouwd als een vorm van VDM en is niet toegestaan.
+- Break checking wordt beschouwd als een vorm van VDM en is niet toegestaan.
 
 - Als u het slachtoffer bent van opzettelijke VDM, mogen u en uw groep de bestuurder en de passagiers van het voertuig dat u heeft aangereden, neerschieten.
 
