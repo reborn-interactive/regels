@@ -220,3 +220,7 @@ Het vertonen van ongepast gedrag/ toxic gedrag is niet toegestaan. Staff heeft d
 Combatloggen betekent het verlaten van het spel tijdens een roleplay scenario zonder geldige reden.
 
 Als je om welke reden dan ook uit de stad wordt verwijderd, heb je vijf minuten de tijd om terug te keren. Als je door speciale omstandigheden de stad moet verlaten, moet je dit eerst bespreken met de betrokkenen bij het scenario. Handelen zonder communicatie kan leiden tot straf, dus communiceer altijd!
+
+## 14. Overheidsfuncties
+
+Als jij in-dienst bent als overheidsjob dan is het niet toegestaan om een overheidsbaan uit te voeren. Doe je dit toch kan je aangesproken worden door leidinggevenden van de baan of van staffleden.
