@@ -2,7 +2,7 @@
 
 <figure markdown>
   ![Image title](https://cdn.discordapp.com/attachments/995125085478330450/1144641888977166507/r.png){ width="250" }
-  <figcaption>Laatste update: 08-02-2024</figcaption>
+  <figcaption>Laatste update: 23-02-2024</figcaption>
 </figure>
 
 
