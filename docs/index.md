@@ -62,17 +62,11 @@
 
 
 - Combat spawnen is niet toegestaan. Combat spawnen wordt gedefinieerd als het spawnen van een voertuig binnen 500M van een gevechtssituatie. 
-
 - Als jij of je groep betrokken zijn bij een overval, dan kun je een voertuig spawnen vanuit een garage op minstens 1 km afstand.
-
 - Als u bent vastgehouden/geboeit terwijl u dood op de grond ligt, maar de verantwoordelijke persoon heeft geen moeite gedaan om RP aan te gaan terwijl mag je jezelf respawnwen.
-
 - Je mag een persoon niet langer dan 1 uur gijzelen. Uitzonderingen kunnen worden gemaakt wanneer de gijzeling uitmondt in een vuurgevecht of wanneer de gijzelaar wordt ingezet voor een bankoverval. Een persoon kan niet voor meer dan één situatie gegijzeld worden.
-
 - Iemand anders die een regel overtreedt, staat u niet toe hetzelfde te doen. Als je een situatie tegenkomt waar je het niet mee eens bent, blijf dan bij je karakter en probeer de situatie achteraf op te lossen met behulp van een ticket en/of discord.
-
 - De rebellen-licentie is een prestatie voor langetermijnspelers. Iedereen die het misbruikt of de gameplay van nieuwe spelers bederft, kan ertoe leiden dat de licentie van hen wordt verwijderd, bijvoorbeeld door UWV jobs te beroven.
-
 - Het opzettelijk blokkeren van een garage spawn met je voertuig is niet toegestaan.
 
 ## 3. Vliegen zonder vliegbrevet
@@ -117,12 +111,13 @@ Regels omtrent het rippen:
 - Het rippen van nieuwe personen is niet toegestaan. Deze mensen verdienen het om een goede speelervaring te hebben en moeten daarvoor ook de vrijheid krijgen.
 - Het gebruik van een helikopter om duidelijk het pad van een andere opstijgende helikopter te blokkeren, wordt beschouwd als eenrichtingsinitiatie. Spelers die in dezelfde bende zitten als de piloot van de helikopter die wordt geblokkeerd, mogen het vuur openen op de helikopter die het pad blokkeert en op de bendeleden van de piloot.
 - Je mag schieten op grondvoertuigen (dit geldt ook voor helikopters aan de grond) om deze uit te schakelen zonder een RP te starten. Nadat het voertuig echter is uitgeschakeld, moeten de schutters het voertuig naderen om een RP met de inzittenden te beginnen. (Schiet je inzittende dood, valt dit gewoon onder RDM)
+- Het rippen rondom vaste drugsproductie plekken is niet toegestaan. Bij de verkoop is dit echter wel toegestaan. 
 
 - Wanneer mag je een moord-actie uitvoeren:
     - [x] Persoon werkt niet mee met een rip-actie, en heeft voldoende tijd gehad om aan de eisen te voldoen
     - [x] Persoon die een wapen trekt tijdens een rip-actie
     - [x] Persoon schiet terug na een "eenrichtingsinitiatie"
-    - [x] Waneer jij of jouw bende een eenrichtingsinitiatie hebben op een andere groep (bv: Jouw voertuig is beschoten)
+    - [x] Wanneer jij of jouw bende een eenrichtingsinitiatie hebben op een andere groep (bv: Jouw voertuig is beschoten)
     - [x] Als het voertuig door de persoon is beschoten
     - [x] Als beide personen op of rond "Cayo perico" bevinden
     - [x] Als de persoon een directe bedreiging geeft aan jou of jouw bendeleden (Let op regel 2.2)
@@ -139,20 +134,19 @@ Als de uitdrukking "bendeleden" wordt gebruikt, geldt dit ook voor de politie.
 
 ## 8. Gedrag
 
-1. Kloten om RP te verpesten op welke manier dan ook is niet toegestaan.
+Binnen Reborn verwachten wij dat spelers zich op een capabele manier kunnen gedragen.
+Hieronder staan een aantal dingen die niet toegestaan zijn.
 
-- Je mag je in-game microfoon niet gebruiken om anderen te irriteren. Het spelen van muziek of schreeuwen kan de RPervaring van anderen verpesten en is niet toegestaan.
-
-- Om effectief met elkaar te kunnen RP'n, is het vereist dat je Nederlands spreekt.
-
-- Discriminerende, racistische, ongepaste, beledigende of hatelijke manier is niet toegestaan.
-
+- Klootgedrag om de roleplay te verpesten op welke manier is niet toegestaan.
+- Je microfoon gebruiken om anderen te irriteren is niet toegestaan. Het afspelen van soundboards of schreeuwen kan de roleplay ervaring van anderen verpesten en is niet toegestaan.
+- Om een goed roleplay scenario uit te kunnen voeren is het belangrijk dat je de Nederlandse taal beheerst.
+- Het uiten van discriminerend, racistisch, ongepast, beledigend of haatdragelijk gedrag is niet toegestaan.
 - Namen van spelers of bendes mogen niet aanstootgevend zijn voor anderen, noch mogen ze in verband worden gebracht met illegale groepen of personen die iemand kunnen of zullen beledigen. Voorbeelden hiervan zijn real-life terroristische organisaties, religieuze groeperingen en andere controversiële onderwerpen.
+- Namen van spelers of gangs mogen niet aanstootgevend zijn voor anderen. Denk hierbij aan bijvoorbeeld namen van echte terroristische organisaties of religieuze groeperingen als gangnaam aannemen.
+- Het verkopen van in-game items/spullen of verhandelen voor enige vorm van betaling is niet toegestaan.
 
-- Je mag geen in-game content verkopen of verhandelen voor enige vorm van betaling buiten het spel om.
 
-
-## 9. NLR
+## 9. New life rule / NLR
 
 !!! note annotate "Verduidelijking"
     Een nieuw leven betekent dat als je sterft, je personage alle eerdere herinneringen, gebeurtenissen en informatie die tot zijn dood hebben geleid, heeft verloren. Je mag geen actie ondernemen op basis van deze eerdere informatie.
@@ -161,10 +155,10 @@ Als de uitdrukking "bendeleden" wordt gebruikt, geldt dit ook voor de politie.
     - [x] Je personage is op een legitieme manier gestorven.
 
 - Een nieuw leven begint niet als:
-    - [ ] Je bent RDM'd. Je wordt vermoord zonder geldige reden door een speler.
-    - [ ] Je bent VDM'd. Iemand heeft een voertuig gebruikt om je te vermoorden.
-    - [ ] Je bent geFailRP'd. Je wordt vermoord om een ​​ongeldige reden.
-    - [ ] U verlaat het spel.
+    - [ ] Als je geRDM'd bent. Dit uiteraard wel als het is afgekeurd door staff-leden.
+    - [ ] Als je geVDM'd bent. Dit uiteraard wel als het is afgekeurd door staff-leden.
+    - [ ] Als er een FailRP scenario heeft plaatsgevonden wat afgekeurd is door staff-leden.
+    - [ ] Als je de stad verlaat.
     - [ ] Staff dit aangeeft.
 
 !!! warning annotate "Verduidelijking"
@@ -178,37 +172,33 @@ Als de uitdrukking "bendeleden" wordt gebruikt, geldt dit ook voor de politie.
     - Je moet minimaal 500M verwijderd blijven van de plaats van uw vorige overlijden gedurende minimaal 15 minuten.
 
 ## 10. Oplichten / Scammen
-Scammen/oplichten is niet toegestaan bij de onderstaande onderdelen:
+Binnen Reborn zijn er een aantal regels omtrent het scammen en/of rippen. Deze staan hieronder vermeld.
 
-Het stelen van bankgeld
+Het oplichten/scammen is niet toegestaan bij een aantal dingen. Deze zijn hieronder vermeld:
 
-Oplichten van baan gerelateerde voorwerpen
-Overheids voorwerpen
-Iemand zijn huis onder dwang leeg roven
-Iemand oplichten in de autohandel ( Het is wel je eigen verantwoordelijkheid om te controleren op tunes )
-Het rippen van eigen gangleden die 3 weken nieuw zijn.
+- Het stelen van mensen hun geld van de bankrekening.
+- Oplichten van licensed gerelateerde items.
+- Overheidsitems (vuurwapens, repairkits etc.)
+- Iemand onder dwang zijn kluis leeg laten halen.
+- Iemand oplichten in de autohandel (Het is wel je eigen risico om het te controleren op tunes).
+- Het rippen van gangleden die minder als 3 weker in de gang zitten.
 
-Scammen/oplichten is toegestaan met spullen betrekking tot de criminaliteit.
+Het oplichten/scammen van crimineel gerelateerde items is daarentegen wel weer toegestaan. Een aantal voorbeelden zijn:
 
-Het oplichten van drugs
+- Het rippen/oplichten van drugs.
+- Het rippen/oplichten van zwartgeld.
+- Het rippen/oplichten van crimineel gerelateerde items.
 
-Het oplichten van zwartgeld
-Het oplichten van criminele gerelateerde spullen (Wapens)
-Oplichten is toegestaan met een maximum van €20.000,-
+Daarnaast is het toegestaan om mensen op te lichten met een maximum van €20.000,- in ILLEGALE goederen.
 
 ## 11. MetaGaming
 1.  Metagaming, wat wordt gedefinieerd als een actie waarbij een speler gebruik maakt van kennis waarvan de speler op de hoogte is, maar waarvan het personage niet op de hoogte mag of kan zijn, dit is niet toegestaan.
 
 - Je mag de intenties of locaties van mensen niet onthullen buiten het spel om
-
 - Als je wordt vastgehouden en je communicatie in beslag is genomen, mag je geen andere communicatiemethode gebruiken dan directe praten in-game.
-
 - Streamsniping is niet toegestaan. Als u handelt op of informatie gebruikt die is verzameld uit een stream voor uw eigen voordeel, wordt dit beschouwd als metagaming.
-
 - Het delen van informatie met gangs tijdens het spelen als politie is niet toegestaan. Dit omvat, maar is niet beperkt tot, het weggeven van politieposities of het delen van politie-informatie zoals tactieken, wapens en gebruikte voertuigen.
-
 - Iemands eigendom beroven op basis van informatie die van buiten het spel is verkregen, wordt beschouwd als metagaming en is niet toegestaan.
-
 - Powergaming is niet toegestaan, je mag andere spelers niet in situaties brengen die niet mogelijk zijn binnen de mechanics van het spel. Een voorbeeld zou zijn dat je bomgorden hebt tijdens een beroving of  "Ik heb mijn vingerafdrukscanner gebruikt en je naam is teruggekomen als klaas vaak"
 
 ## 12. Streamsniping
