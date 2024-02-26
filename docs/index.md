@@ -71,7 +71,7 @@
 
 ## 3. Vliegen zonder vliegbrevet
 
-Het besturen van een vliegtuig, helikopter of ander voertuig wat vliegt is niet toegestaan. 
+Het besturen van een vliegtuig, helikopter of ander voertuig wat vliegt zonder geldig vliegbrevet is niet toegestaan. 
 
 ## 4. GTA Drivestyle
 GTA Drivestyle verwijst naar het onrealistische rijgedrag in een voertuig, dat in werkelijkheid niet zou kunnen.
