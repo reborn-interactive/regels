@@ -2,7 +2,7 @@
 
 <figure markdown>
   ![Image title](https://cdn.discordapp.com/attachments/995125085478330450/1144641888977166507/r.png){ width="250" }
-  <figcaption>Laatste update: 23-02-2024</figcaption>
+  <figcaption>Laatste update: 26-02-2024</figcaption>
 </figure>
 
 
@@ -221,6 +221,13 @@ Combatloggen betekent het verlaten van het spel tijdens een roleplay scenario zo
 
 Als je om welke reden dan ook uit de stad wordt verwijderd, heb je vijf minuten de tijd om terug te keren. Als je door speciale omstandigheden de stad moet verlaten, moet je dit eerst bespreken met de betrokkenen bij het scenario. Handelen zonder communicatie kan leiden tot straf, dus communiceer altijd!
 
+## 14. Combatstashing
+
+Wanneer je betrokken bent bij een scenario, is het gedurende de komende 15 minuten niet toegestaan om illegale of gestolen goederen weg te leggen of af te geven. Bijvoorbeeld, na het rippen van een andere speler dien je zowel je wapen als de gestolen goederen bij je te houden.
+
+Als je twijfelt of dit van toepassing is bij bepaalde scenario's, vraag dit dan voor de zekerheid eerst even na.
+
 ## 14. Overheidsfuncties
 
 Als jij in-dienst bent als overheidsjob dan is het niet toegestaan om een licensed job uit te voeren. Doe je dit toch kan je aangesproken worden door leidinggevenden van de baan of door staffleden.
+
