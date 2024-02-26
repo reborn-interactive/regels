@@ -211,7 +211,7 @@ Oplichten is toegestaan met een maximum van €20.000,-
 
 - Powergaming is niet toegestaan, je mag andere spelers niet in situaties brengen die niet mogelijk zijn binnen de mechanics van het spel. Een voorbeeld zou zijn dat je bomgorden hebt tijdens een beroving of  "Ik heb mijn vingerafdrukscanner gebruikt en je naam is teruggekomen als klaas vaak"
 
-## 12. Copbaiten
+## 12. Streamsniping
 Wanneer iemand informatie uit een livestream gebruikt om de streamer op te zoeken, wordt dit beschouwd als stream-sniping. De informatie die ze hierbij verkrijgen kan ook worden beschouwd als metagaming, aangezien het buiten het normale spelverloop valt en extern verkregen kennis gebruikt om het spel te beïnvloeden. Toxic gedrag
 
 Het vertonen van ongepast gedrag/ toxic gedrag is niet toegestaan. Staff heeft de bevoegdheid om te bepalen wat als ongepast gedrag wordt beschouwd. Indien iemand aangeeft dat ze last hebben van jouw gedrag, wordt van je verwacht dat je jouw gedrag aanpast.
