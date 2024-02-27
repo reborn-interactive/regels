@@ -1,7 +1,7 @@
 # Regels
 
 <figure markdown>
-  ![Image title](https://cdn.discordapp.com/attachments/995125085478330450/1144641888977166507/r.png){ width="250" }
+  ![Image title](https://i.gyazo.com/527b924e2f1aa39d87a2786d6172f4a2.png){ width="250" }
   <figcaption>Laatste update: 26-02-2024</figcaption>
 </figure>
 
