@@ -219,5 +219,16 @@ Als je twijfelt of dit van toepassing is bij bepaalde scenario's, vraag dit dan 
 
 ## 14. Overheidsfuncties
 
-Als jij in-dienst bent als overheidsjob dan is het niet toegestaan om een licensed job uit te voeren. Doe je dit toch kan je aangesproken worden door leidinggevenden van de baan of door staffleden.
+Als jij in-dienst bent als overheid dan is het niet toegestaan om een licensed job uit te voeren. Doe je dit toch kan je aangesproken worden door je leidinggevende of door staffleden.
+
+## 15. Politie controles
+
+De politie heeft een aantal plekken waar zij wel mogen controleren en een aantal plekken waar zij niet mogen controleren.
+
+De plekken waar zij wel mogen controleren:
+- Op de verwerkingsplekken van drugslocaties
+
+De plekken waar zij niet mogen controleren:
+- De productieplekken van drugs.
+
 
