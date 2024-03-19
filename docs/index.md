@@ -231,4 +231,7 @@ De plekken waar zij wel mogen controleren:
 De plekken waar zij niet mogen controleren:
 - De productieplekken van drugs.
 
+## 16. Eiland 
+
+Op het Cayo Perico eiland zijn er geen regels. Het is dus makkelijk gezegd een "redzone". Hier is alle criminele activiteit toegestaan zonder enige verklaring. Het komen op het eiland is dus ook een eigen verantwoording.
 
