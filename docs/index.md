@@ -65,7 +65,7 @@ Indien er een regel overtreden wordt probeer dan eerst met diegene in kwestie in
 ## 5. - VDM
 
 1. Vehicle Death Match oftewel VDM is het opzettelijk gebruiken van je voertuig om medespelers aan te rijden met slechte bedoelingen zoals iemand verwonden of de dood tot gevolg is niet toegestaan.
-2. Indien jij overleden bent door iemand opzettelijk VDM gepleegd heeft mag jij de desbetreffende bestuurder en de bijrijder(s) neerschieten.
+2. Indien jij overleden bent door iemand die opzettelijk VDM gepleegd heeft mag jij de desbetreffende bestuurder en de bijrijder(s) neerschieten.
 3. Het "pitten" van een ander voertuig met als doel het andere voertuig tot stilstand te krijgen of kapot te maken is toegestaan indien het voertuig niet zwaarder weegt en als de snelheid lager is als 100 km/u. Op de motor is dit maximaal 30 km/h.
 
 ## 6. - RDM
@@ -106,7 +106,11 @@ Het besturen van een vliegtuig, helikopter of ander vliegend voertuig is niet to
 
 ## 12. - Ambtenaren
 
-Ambtenaren vallen onder iedere organisatie die toegang hebben tot het F6 menu.
+Ambtenaren zijn de mensen die voor de overheid werken. Hieronder staan deze overheidsinstanties ook benoemd:
+
+- Politie
+- Ambulance
+- ANWB
 
 - Het is verboden om je als ambtenaar bezig te houden met illegale activiteiten (met uitzonderingen van de ANWB en de ambulance).
 - Het is verboden om uit-dienst goederen bij je te dragen die je in-dienst gebruikt (denk hierbij aan een tazer, pistool of medische middelen).
@@ -134,6 +138,7 @@ Een aantal redenen om iemand te mogen beroven zijn:
 - [x] Op het moment dat iemand een holster draagt.
 - [x] Op het moment dat er visueel een wapen aanwezig is.
 - [x] Als er iemand op een drugsverkooplocatie aanwezig is.
+- [x] Gangleden die minder als 2 weken in de gang zitten.
 
 *Zodra jij een van bovenstaande punten herkend bij iemand is het toegestaan om diegene te beroven tot 30 minuten daarna. Dan vervalt deze geldigheid en heb je het recht niet meer om diegene te beroven.*
 
@@ -156,28 +161,28 @@ Waarvan mag je mensen beroven?
 
 Waarvan mag je mensen niet beroven?
 
-    - [ ] Geld van bankrekeningen
-    - [ ]elicentieerde items
-    - [ ] Overheidsitems (Vuurwapens, repairkits etc.)
-    - [ ] Iemand forceren zijn/haar kluis leeg te halen.
-    - [ ]Iemand oplichten in de autohandel (Het is wel je eigen risico om te controleren op de tuning).
-    - [ ] Gangleden die minder als 2 weken in de gang zitten.
+- [ ] Geld van bankrekeningen
+- [ ] Gelicentieerde items
+- [ ] Overheidsitems (Vuurwapens, repairkits etc.)
+- [ ] Iemand forceren zijn/haar kluis leeg te halen.
+- [ ] Iemand oplichten in de autohandel (Het is wel je eigen risico om te controleren op de tuning).
 
-6. Rondom liquidaties zijn er ook een aantal voorbeelden wanneer je wel iemand mag vermoorden.
+ Er zijn ook een aantal situaties waarin liquidaties wel zijn toegestaan.
 
-    - [x] Iemand werkt niet mee aan een roofactie en heeft voldoende tijd gehad om zich aan de eisen te houden.
-    - [x] Iemand trekt een wapen tijdens een roofactie.
-    - [x] Iemand schiet terug na een eenrichtingsinitiatie
-    - [x] Wanneer jouw groepering een eenrichtingsinitiatie hebben op een andere groep (bijvoorbeeld: jouw voertuig werd beschoten.)
-    - [x] Als het voertuig door de persoon beschoten is.
-    - [x] Als beide personen zich op of rondom Cayo Perico bevinden.
-    - [x] Als de persoon een directe dreiging vormt richting jou of je groepsleden.
+- [x] Iemand werkt niet mee aan een roofactie en heeft voldoende tijd gehad om zich aan de eisen te houden.
+- [x] Iemand trekt een wapen tijdens een roofactie.
+- [x] Iemand schiet terug na een eenrichtingsinitiatie
+- [x] Wanneer jouw groepering een eenrichtingsinitiatie hebben op een andere groep (bijvoorbeeld: jouw voertuig werd beschoten).
+- [x] Als het voertuig door de persoon beschoten is.
+- [x] Als beide personen zich op of rondom Cayo Perico bevinden.
+- [x] Als de persoon een directe dreiging vormt richting jou of je groepsleden.
 
-Er zijn uiteraard ook redenen om geen moord uit te voeren waar af en toe nog wel verwarring is. Deze standaard regels staan hieronder vermeld.
-    - [ ] Als een persoon meewerkt aan een roofactie.
-    - [ ] Wanneer er een eenrichtingsinitiatie is vanuit jouw gang (Je schiet biujvoorbeeld op een voertuig om het uit te schakelen).
-    - [ ] Wanneer er geen duidelijke dreiging is.
-    - [ ] Om de persoon iets te laten vergeten.
+Er zijn ook een aantal redenen waarin het niet is toegestaan om een liquidatie uit te voeren. Deze punten staan hieronder vermeld.
+
+- [ ] Als een persoon meewerkt aan een roofactie.
+- [ ] Wanneer er een eenrichtingsinitiatie is vanuit jouw gang (Je schiet biujvoorbeeld op een voertuig om het uit te schakelen).
+- [ ] Wanneer er geen duidelijke dreiging is.
+- [ ] Om de persoon iets te laten vergeten.
 
 *Let op: Personeelsleden van de ANWB en Ambulance mogen onder geen enkele mogelijkheid vermoord worden.*
 *Indien de uitdrukking "bendeleden" gebruikt wordt geldt dit ook voor de politie.*
