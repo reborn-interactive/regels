@@ -108,16 +108,19 @@ Het besturen van een vliegtuig, helikopter of ander vliegend voertuig is niet to
 
 Ambtenaren zijn de mensen die voor de overheid werken. Hieronder staan deze overheidsinstanties ook benoemd:
 
-- Politie
-- Ambulance
-- ANWB
+1. De overheidsinstaties zijn:
+    * Politie
+    * Ambulance
+    * ANWB
 
-- Het is verboden om je als ambtenaar bezig te houden met illegale activiteiten (met uitzonderingen van de ANWB en de ambulance).
-- Het is verboden om uit-dienst goederen bij je te dragen die je in-dienst gebruikt (denk hierbij aan een tazer, pistool of medische middelen).
-- Het is niet toegestaan om geconfisqueerde items door te verkopen aan spelers.
-- Op het moment dat jij ontslag neemt als overheidsinstantie is het niet toegestaan om informatie te gebruiken die jij tijdens je werkperiode voor deze overheidsfunctie hebt verkregen.
-- Als ambtenaar is het niet toegestaan om in-dienst gelicentieerde jobs uit te voeren.
-- De politie is bevoegd om te controleren op verwerkingsplekken van drugslocaties, echter mogen zij niet controleren op vaste productieplekken van drugs.
+1. Het is verboden om je als ambtenaar bezig te houden met illegale activiteiten (met uitzonderingen van de ANWB en de ambulance).
+1. Het is verboden om uit-dienst goederen bij je te dragen die je in-dienst gebruikt (denk hierbij aan een tazer, pistool of medische middelen).
+1. Het is niet toegestaan om geconfisqueerde items door te verkopen aan spelers.
+1. Op het moment dat jij ontslag neemt als overheidsinstantie is het niet toegestaan om informatie te gebruiken die jij tijdens je werkperiode voor deze overheidsfunctie hebt verkregen.
+1. Als ambtenaar is het niet toegestaan om in-dienst gelicentieerde jobs uit te voeren.
+1. De politie is bevoegd om te controleren op verwerkingsplekken van drugslocaties, echter mogen zij niet controleren op vaste productieplekken van drugs.
+
+
 
 ## 13. - Gedrag richting overheidsinstanties
 
@@ -132,60 +135,64 @@ Ambtenaren zijn de mensen die voor de overheid werken. Hieronder staan deze over
 
 1. Het beroven van spelers is toegestaan indien jij hier een goede reden voor hebt, een simpel voorbeeld hiervan is onderdeel zijn van een criminele organisatie die in oorlog is met een andere criminele organisatie. Zodra er een server restart is geweest is het niet meer toegestaan om actieve herinneringen te hebben aan de vorige dag en daarom iemand nog te rippen. Een uitzondering hierop is een onverwachte servercrash of een restart. In dat geval loopt de timer door tot de oorspronkelijk eerstkomende getimde restart.
 
-Een aantal redenen om iemand te mogen beroven zijn:
+    Een aantal redenen om iemand te mogen beroven zijn:
 
-- [x] Op het moment dat iemand een masker/bivakmuts draagt.
-- [x] Op het moment dat iemand een holster draagt.
-- [x] Op het moment dat er visueel een wapen aanwezig is.
-- [x] Als er iemand op een drugsverkooplocatie aanwezig is.
-- [x] Gangleden die minder als 2 weken in de gang zitten.
+    * [x] Op het moment dat iemand een masker/bivakmuts draagt.
+    * [x] Op het moment dat iemand een holster draagt.
+    * [x] Op het moment dat er visueel een wapen aanwezig is.
+    * [x] Als er iemand op een drugsverkooplocatie aanwezig is.
+    * [x] Gangleden die minder als 2 weken in de gang zitten.
 
-*Zodra jij een van bovenstaande punten herkend bij iemand is het toegestaan om diegene te beroven tot 30 minuten daarna. Dan vervalt deze geldigheid en heb je het recht niet meer om diegene te beroven.*
+    *Zodra jij een van bovenstaande punten herkend bij iemand is het toegestaan om diegene te beroven tot 30 minuten daarna. Dan vervalt deze geldigheid en heb je het recht niet meer om diegene te beroven.*
 
-Een aantal regels wanneer het niet toegestaan is om iemand te beroven staan hieronder vermeld:
+    Een aantal regels wanneer het niet toegestaan is om iemand te beroven staan hieronder vermeld:
 
-- [ ] Spelers die een legaal gelicentieerde job uitvoeren mag je niet beroven.
-- [ ] Het beroven van spelers rondom VASTE drugsprodoctieplekken is niet toegestaan in een radius van 200 meter. (Methcampers mag je dus wel rippen omdat zij geen vaste productie plekken hebben)
-- [ ] Indien een speler nieuw is is het niet toegestaan deze te beroven. Zij verdienen een optimale speelervaring en in het begin is het belangrijk om alles veilig te kunnen verkennen.
+    * [ ] Spelers die een legaal gelicentieerde job uitvoeren mag je niet beroven.
+    * [ ] Het beroven van spelers rondom VASTE drugsprodoctieplekken is niet toegestaan in een radius van 200 meter. (Methcampers mag je dus wel rippen omdat zij geen vaste productie plekken hebben)
+    * [ ] Indien een speler nieuw is is het niet toegestaan deze te beroven. Zij verdienen een optimale speelervaring en in het begin is het belangrijk om alles veilig te kunnen verkennen.
 
 2. Een gijzelaar mag geen directe vriendschappelijke relatie hebben met jou maar moet een onbekend persoon zijn.
 3. Als je van plan bent iemand te vermoorden is het ten alle tijden verplicht om diegene duidelijk te maken waarom diegene vermoord wordt. Dit terwijl diegene nog in leven is. (Uitzondering van een shootout en scenario's waarin het onmogelijk is).
 4. Schietincidenten dienen ten alle tijden zoveel mogelijk voorkomen te worden. Probeer eerst te onderhandelen met de politie.
 5. Mensen oplichten is toegestaan in het illegale circuit. Echter zijn hier wel beperkingen aan gekoppeld.
 
-Waarvan mag je mensen beroven?
 
-- [x] Illegale goederen.
-- [x] Zwart- en witgeld.
-- [x] Het is het toegestaan om mensen op te lichten met een maximum t.w.v. €15.000,-.
+!!! Note "Uitleg berovingen"
 
-Waarvan mag je mensen niet beroven?
+    Waarvan mag je mensen beroven?
 
-- [ ] Geld van bankrekeningen
-- [ ] Gelicentieerde items
-- [ ] Overheidsitems (Vuurwapens, repairkits etc.)
-- [ ] Iemand forceren zijn/haar kluis leeg te halen.
-- [ ] Iemand oplichten in de autohandel (Het is wel je eigen risico om te controleren op de tuning).
+    - [x] Illegale goederen.
+    - [x] Zwart- en witgeld.
+    - [x] Het is het toegestaan om mensen op te lichten met een maximum t.w.v. €15.000,-.
 
- Er zijn ook een aantal situaties waarin liquidaties wel zijn toegestaan.
+    Waarvan mag je mensen niet beroven?
 
-- [x] Iemand werkt niet mee aan een roofactie en heeft voldoende tijd gehad om zich aan de eisen te houden.
-- [x] Iemand trekt een wapen tijdens een roofactie.
-- [x] Iemand schiet terug na een eenrichtingsinitiatie
-- [x] Wanneer jouw groepering een eenrichtingsinitiatie hebben op een andere groep (bijvoorbeeld: jouw voertuig werd beschoten).
-- [x] Als het voertuig door de persoon beschoten is.
-- [x] Als beide personen zich op of rondom Cayo Perico bevinden.
-- [x] Als de persoon een directe dreiging vormt richting jou of je groepsleden.
+    - [ ] Geld van bankrekeningen
+    - [ ] Gelicentieerde items
+    - [ ] Overheidsitems (Vuurwapens, repairkits etc.)
+    - [ ] Iemand forceren zijn/haar kluis leeg te halen.
+    - [ ] Iemand oplichten in de autohandel (Het is wel je eigen risico om te controleren op de tuning).
 
-Er zijn ook een aantal redenen waarin het niet is toegestaan om een liquidatie uit te voeren. Deze punten staan hieronder vermeld.
+    Er zijn ook een aantal situaties waarin liquidaties wel zijn toegestaan.
 
-- [ ] Als een persoon meewerkt aan een roofactie.
-- [ ] Wanneer er een eenrichtingsinitiatie is vanuit jouw gang (Je schiet biujvoorbeeld op een voertuig om het uit te schakelen).
-- [ ] Wanneer er geen duidelijke dreiging is.
-- [ ] Om de persoon iets te laten vergeten.
+    - [x] Iemand werkt niet mee aan een roofactie en heeft voldoende tijd gehad om zich aan de eisen te houden.
+    - [x] Iemand trekt een wapen tijdens een roofactie.
+    - [x] Iemand schiet terug na een eenrichtingsinitiatie
+    - [x] Wanneer jouw groepering een eenrichtingsinitiatie hebben op een andere groep (bijvoorbeeld: jouw voertuig werd beschoten).
+    - [x] Als het voertuig door de persoon beschoten is.
+    - [x] Als beide personen zich op of rondom Cayo Perico bevinden.
+    - [x] Als de persoon een directe dreiging vormt richting jou of je groepsleden.
 
-*Let op: Personeelsleden van de ANWB en Ambulance mogen onder geen enkele mogelijkheid vermoord worden.*
-*Indien de uitdrukking "bendeleden" gebruikt wordt geldt dit ook voor de politie.*
+    Er zijn ook een aantal redenen waarin het niet is toegestaan om een liquidatie uit te voeren. Deze punten staan hieronder vermeld.
+
+    - [ ] Als een persoon meewerkt aan een roofactie.
+    - [ ] Wanneer er een eenrichtingsinitiatie is vanuit jouw gang (Je schiet bijvoorbeeld op een voertuig om het uit te schakelen).
+    - [ ] Wanneer er geen duidelijke dreiging is.
+    - [ ] Om de persoon iets te laten vergeten.
+
+    !!! abstract warning "Let op:"
+        *Personeelsleden van de ANWB en Ambulance mogen onder geen enkele mogelijkheid vermoord worden.*
+        *Indien de uitdrukking "bendeleden" gebruikt wordt geldt dit ook voor de politie.*
 
 ## 15. - Stemherkenning
 
@@ -195,4 +202,7 @@ Er zijn ook een aantal redenen waarin het niet is toegestaan om een liquidatie u
 
 ## 16. - Cayo Perico
 
-Het eiland (Cayo Perico) is een red-zone. Dit houdt in dat het hier bijvoorbeeld wel is toegestaan iemand te vermoorden zonder reden of iemand te beroven zonder reden.
+Het eiland (Cayo Perico) is een "red-zone". 
+
+1. RDM-regel is hier niet van toepassingen
+2. Rippen is altijd hier toegestaan
