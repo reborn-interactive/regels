@@ -144,8 +144,9 @@ Ambtenaren zijn de mensen die voor de overheid werken. Hieronder staan deze over
         * [x] Gangleden die minder als 2 weken in de gang zitten.
 
         *Zodra jij een van bovenstaande punten herkend bij iemand is het toegestaan om diegene te beroven tot 30 minuten daarna. Dan vervalt deze geldigheid en heb je het recht niet meer om diegene te beroven.*
+        
+    !!! Note "Wanneer het niet toegestaan is iemand te beroven" 
 
-        Een aantal regels wanneer het niet toegestaan is om iemand te beroven staan hieronder vermeld:
 
         * [ ] Spelers die een legaal gelicentieerde job uitvoeren mag je niet beroven.
         * [ ] Het beroven van spelers rondom VASTE drugsprodoctieplekken is niet toegestaan in een radius van 200 meter. (Methcampers mag je dus wel rippen omdat zij geen vaste productie plekken hebben)
