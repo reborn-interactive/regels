@@ -31,36 +31,46 @@ Indien er een regel overtreden wordt probeer dan eerst met diegene in kwestie in
 ### 3. Roleplay
 
 1. Achter elk scenario die jij uitvoert dient een goede reden te zitten.
-2. Het leven dat jij leidt is ten alle tijden belangrijk. Een aantal voorbeelden hiervan zullen hieronder vermeld worden.
-* Op het moment dat je een pistool in je holster hebt en iemand zegt tegen jou met een gericht wapen dat je je handen omhoog moet doen moet je hiernaar luisteren.
-* Op het moment dat jij een geladen pistool in je hand hebt en er komt iemand achter jou met een gericht wapen op je af moet je hiernaar luisteren.
-* Als je stilstaat als bestuurder van een voertuig en iemand richt een pistool op je auto van de voorkant en hij zegt: "uitstappen en je handen laten zien of je wordt neergeschoten" dien je mee te werken.
+2. Het leven dat jij leidt is ten alle tijden belangrijk.
+
+    !!! Note "Voorbeelden waarin jouw leven belangrijk is"
+
+        * Op het moment dat je een pistool in je holster hebt en iemand zegt tegen jou met een gericht wapen dat je je handen omhoog moet doen moet je hiernaar luisteren.
+        * Op het moment dat jij een geladen pistool in je hand hebt en er komt iemand achter jou met een gericht wapen op je af moet je hiernaar luisteren.
+        * Als je stilstaat als bestuurder van een voertuig en iemand richt een pistool op je auto van de voorkant en hij zegt: "uitstappen en je handen laten zien of je wordt neergeschoten" dien je mee te werken.
+
 3. Combatloggen is niet toegestaan, hieronder valt het uitloggen wanneer een RP scenario zich actief afspeelt of afgelopen is en binnen een tijd van 15 minuten. Op het moment dat jij bijvoorbeeld achtervolgt werd of in gevecht bent of kort na het verkopen van illegale substanties geldt dit ook.
 4. Combatstashing is ook niet toegestaan. Hiermee wordt bedoelt het opslaan van jouw goederen in de tijd van 15 minuten. Een aantal voorbeelden zijn:
-* Een voertuig in de garage zetten terwijl je wordt overvallen.
-* Items in je kluis leggen terwijl je deel hebt genomen aan een scenario.
+
+    !!! Note "Voorbeelden Combatstashing"
+
+        * Een voertuig in de garage zetten terwijl je wordt overvallen.
+        * Items in je kluis leggen terwijl je deel hebt genomen aan een scenario.
+
 4. RP Scenario's mag je onder geen enkele reden verbreken. Een enkele uitzondering hierop is het helpen van nieuwe(re) spelers op het moment dat zij een vraag hebben.
 5. Een garage blokkeren met jouw voertuig is niet toegestaan.
 6. Zodra jij in een scenario beland en je verliest je connection met de server is het jouw verantwoordelijkheid om contact op te nemen met de tegenovergestelde partij.
 7. Een persoon mag niet gegijzeld worden  voor meer dan één situatie per keer.
 8. Op het moment dat iemand anders een regel overtreed krijg jij geen uitzondering om de regels ook te overtreden. Blijf in RP en probeer het scenario ACHTERAF op te lossen doormiddel van een ticket of een report.
-9. Wanneer criminelen (individueel of in een groep) veel negativiteit veroorzaken (denk aan bijvoorbeeld meerdere malen regels overtreden) of veel waarschuwingen is het management-team gemachtigd om samen te kijken naar een sanctie hierop. Dit kan leiden tot een ban.
+9. Wanneer spelers (individueel of in een groep) veel negativiteit veroorzaken (denk aan bijvoorbeeld meerdere malen regels overtreden) of veel waarschuwingen is het management-team gemachtigd om samen te kijken naar een sanctie hierop. Dit kan leiden tot een ban.
 10. Powergaming is niet toegestaan. Dit houdt in dat spelers niet in situaties mogen belanden waarbij het niet mogelijk is met de mechanics binnen de server. Een voorbeeld is "Ik heb een bomgordel" of "Ik heb een vingerafdrukscanner gebruikt om je naam te traceren." Kleine acties zoals het vastbinden van iemand doormiddel van /me is wel toegestaan.
 
 ### 4. Wraakacties
 
 1. Wraakacties verwijzen naar het wraaknemen op een eerdere interactie en/of gebeurtenis. Spelers mogen wraakacties uitvoeren tot de eerstvolgende serverrestart. Dit betekend dat een wraakactie, zoals het vermoorden van iemand, geldig blijft en kan worden uitgevoerd zolang er geen serverrestart is geweest. (Een uitzondering hierop is een geforceerde restart of een servercrash). Na de restart vervalt de geldigheid van de reden om wraak te nemen en moet je opnieuw een geldige reden hebben om een wraakactie uit te mogen voeren.
 
-2. Een aantal voorbeelden van wraakacties zullen hieronder duidelijk vermeld worden.**
-* Het terugpakken n.a.v. een eerdere confrontatie: Op het moment dat er zich eerder een vijandige interactie heeft plaatsgevonden, zoals een mislukte overval, aanval of een bedrog tijdens een eerdere ontmoeting.
-* Wraak voor schade of verlies: Als jij materiële schade hebt opgelopen door iemand anders kan jij wraak nemen door de dader te overvallen, gijzelen of anderszins te benadelen binnen de grenzen van de RP-regels.
-* Betrokkenheid bij gang conflicten: Spelers die lid zijn van een criminele organisatie die in oorlog zijn met een andere partij, hebben het recht om wraak te nemen op de vijandige partij.
-* Reactie op verraad of bedrog: Als jij wordt verraden door een medespeler is het toegestaan om wraak te nemen door bijvoorbeeld waardevolle items te confisqueren of om diegene te mishandelen/vermoorden.
+    !!! Note "Situaties voor het nemen van een wraakacties"
 
-3. Situaties waarin het niet toegestaan is om wraak te nemen zullen hieronder vermeld worden.
-* Een ambtenaar die een boete uitschrijft: Op het moment dat een politieagent een boete uitschrijft is het niet toegestaan om wraak te nemen op diegene. De boete moet geaccepteerd worden tenzij het binnen de RP-logica mogelijk is om de situatie op een andere manier op te lossen (bijvoorbeeld door onderhandelingen).
-* Een verloren gevecht of confrontatie: Wanneer jij een gevecht verliest is het niet acceptabel om onmiddelijk wraak te nemen door de andere partij aan te vallen. Op het moment dat jij overlijdt aan dit gevecht gaat ook de New Life Rule (NLR) in en wordt jij ontzien van het recht om wraak te nemen op dezelfde partij.
-* Onbedoelde schade: Op het moment dat een speler perongeluk schade veroorzaakt aan jou zonde kwade bedoeling(en) is het niet toegestaan om wraak te nemen zoals het vermoorden van de persoon. Om wraak te mogen nemen op iemand dien je opnieuw een geldige reden te hebben om deze wraakactie alsnog uit te voeren.
+        * Het terugpakken n.a.v. een eerdere confrontatie: Op het moment dat er zich eerder een vijandige interactie heeft plaatsgevonden, zoals een mislukte overval, aanval of een bedrog tijdens een eerdere ontmoeting.
+        * Wraak voor schade of verlies: Als jij materiële schade hebt opgelopen door iemand anders kan jij wraak nemen door de dader te overvallen, gijzelen of anderszins te benadelen binnen de grenzen van de RP-regels.
+        * Betrokkenheid bij gang conflicten: Spelers die lid zijn van een criminele organisatie die in oorlog zijn met een andere partij, hebben het recht om wraak te nemen op de vijandige partij.
+        * Reactie op verraad of bedrog: Als jij wordt verraden door een medespeler is het toegestaan om wraak te nemen door bijvoorbeeld waardevolle items te confisqueren of om diegene te mishandelen/vermoorden.
+
+    !!! Note "Situaties waarin het niet toegestaan is om een wraakactie te plegen"
+
+        * Een ambtenaar die een boete uitschrijft: Op het moment dat een politieagent een boete uitschrijft is het niet toegestaan om wraak te nemen op diegene. De boete moet  geaccepteerd worden tenzij het binnen de RP-logica mogelijk is om de situatie op een andere manier op te lossen (bijvoorbeeld door onderhandelingen).
+        * Een verloren gevecht of confrontatie: Wanneer jij een gevecht verliest is het niet acceptabel om onmiddelijk wraak te nemen door de andere partij aan te vallen. Op het moment dat jij overlijdt aan dit gevecht gaat ook de New Life Rule (NLR) in en wordt jij ontzien van het recht om wraak te nemen op dezelfde partij.
+        * Onbedoelde schade: Op het moment dat een speler perongeluk schade veroorzaakt aan jou zonde kwade bedoeling(en) is het niet toegestaan om wraak te nemen zoals het vermoorden van de persoon. Om wraak te mogen nemen op iemand dien je opnieuw een geldige reden te hebben om deze wraakactie alsnog uit te voeren.
 
 ### 5. VDM
 
@@ -94,7 +104,7 @@ Het besturen van een vliegtuig, helikopter of ander vliegend voertuig is niet to
 
 ### 10. Gebruik van voertuig(en)
 
-1. Het is ten strengste verboden om als ambetenaar gebruik te maken van dienstvoertuig(en) om illegale activiteiten uit te voeren.
+1. Het is ten strengste verboden om als ambtenaar gebruik te maken van dienstvoertuig(en) om illegale activiteiten uit te voeren.
 2. Het is niet toegestaan om voertuigen te gebruiken als wapen. Dit valt onder VDM.
 3. Het is niet toegestaan om met voertuigen gebouwen te betreden (enkel als er een garage aanwezig is is dit wel toegestaan).
 4. Als "normale" inwoner zijnde is het niet toegestaan om overheidsvoertuigen te besturen. Enkel wanneer hier een goede reden in RP voor is.
@@ -102,25 +112,25 @@ Het besturen van een vliegtuig, helikopter of ander vliegend voertuig is niet to
 ### 11. Taalgebruik
 
 1. Het schelden met hederdaagse ziekten is niet toegestaan. Dit zal de 1e keer bestraft worden met een ban van 1 maand, de 2e keer 3 maanden en de 3e keer een permanente ban.
-2. Het is binnen Reborn niet toegestaan om uitlokkend, toxic of haatdragend gedrag te tonen. Staff heeft ten alle tijden het recht om te bepalen wanneer iets als ongepast beschouwd wordt en zij mogen hier ook een passende sanctie aan te koppelen.3. Het vertonen van racistisch gedrag of andere ongepaste opmerkingen uiten is niet toegestaan.
+2. Het is binnen Reborn niet toegestaan om uitlokkend, toxic of haatdragend gedrag te tonen. Staff heeft ten alle tijden het recht om te bepalen wanneer iets als ongepast beschouwd wordt en zij mogen hier ook een passende sanctie aan te koppelen.
+3. Het vertonen van racistisch gedrag of andere ongepaste opmerkingen uiten is niet toegestaan.
 
 ### 12. Ambtenaren
 
-Ambtenaren zijn de mensen die voor de overheid werken. Hieronder staan deze overheidsinstanties ook benoemd:
+1. Ambtenaren vallen onder de mensen die voor de overheidinstanties werken. 
 
-1. De overheidsinstaties zijn:
-    * Politie
-    * Ambulance
-    * ANWB
+    !!! Note "Overheidsinstanties Reborn"
 
-1. Het is verboden om je als ambtenaar bezig te houden met illegale activiteiten (met uitzonderingen van de ANWB en de ambulance).
-1. Het is verboden om uit-dienst goederen bij je te dragen die je in-dienst gebruikt (denk hierbij aan een tazer, pistool of medische middelen).
-1. Het is niet toegestaan om geconfisqueerde items door te verkopen aan spelers.
-1. Op het moment dat jij ontslag neemt als overheidsinstantie is het niet toegestaan om informatie te gebruiken die jij tijdens je werkperiode voor deze overheidsfunctie hebt verkregen.
-1. Als ambtenaar is het niet toegestaan om in-dienst gelicentieerde jobs uit te voeren.
-1. De politie is bevoegd om te controleren op verwerkingsplekken van drugslocaties, echter mogen zij niet controleren op vaste productieplekken van drugs.
+        * Politie
+        * Ambulance
+        * ANWB
 
-
+2. Het is verboden om je als ambtenaar bezig te houden met illegale activiteiten (met uitzonderingen van de ANWB en de ambulance).
+3. Het is verboden om uit-dienst goederen bij je te dragen die je in-dienst gebruikt (denk hierbij aan een tazer, pistool of medische middelen).
+4. Het is niet toegestaan om geconfisqueerde items door te verkopen aan spelers.
+5. Op het moment dat jij ontslag neemt als overheidsinstantie is het niet toegestaan om informatie te gebruiken die jij tijdens je werkperiode voor deze overheidsfunctie hebt verkregen.
+6. Als ambtenaar is het niet toegestaan om in-dienst gelicentieerde jobs uit te voeren.
+7. De politie is bevoegd om te controleren op verwerkingsplekken van drugslocaties, echter mogen zij niet controleren op vaste productieplekken van drugs.
 
 ### 13. Gedrag richting overheidsinstanties
 
@@ -143,14 +153,14 @@ Ambtenaren zijn de mensen die voor de overheid werken. Hieronder staan deze over
         * [x] Als er iemand op een drugsverkooplocatie aanwezig is.
         * [x] Gangleden die minder als 2 weken in de gang zitten.
 
-        *Zodra jij een van bovenstaande punten herkend bij iemand is het toegestaan om diegene te beroven tot 30 minuten daarna. Dan vervalt deze geldigheid en heb je het recht niet meer om diegene te beroven.*
+    *Zodra jij een van bovenstaande punten herkend bij iemand is het toegestaan om diegene te beroven tot 30 minuten daarna. Dan vervalt deze geldigheid en heb je het recht niet meer om diegene te beroven.*
         
     !!! Note "Wanneer het niet toegestaan is iemand te beroven" 
-
 
         * [ ] Spelers die een legaal gelicentieerde job uitvoeren mag je niet beroven.
         * [ ] Het beroven van spelers rondom VASTE drugsprodoctieplekken is niet toegestaan in een radius van 200 meter. (Methcampers mag je dus wel rippen omdat zij geen vaste productie plekken hebben)
         * [ ] Indien een speler nieuw is is het niet toegestaan deze te beroven. Zij verdienen een optimale speelervaring en in het begin is het belangrijk om alles veilig te kunnen verkennen.
+        * [ ] Indien iemand op de motor zit met een masker/helm is het niet toegestaan om degene in kwestie te beroven.
 
 2. Een gijzelaar mag geen directe vriendschappelijke relatie hebben met jou maar moet een onbekend persoon zijn.
 3. Als je van plan bent iemand te vermoorden is het ten alle tijden verplicht om diegene duidelijk te maken waarom diegene vermoord wordt. Dit terwijl diegene nog in leven is. (Uitzondering van een shootout en scenario's waarin het onmogelijk is).
@@ -158,42 +168,42 @@ Ambtenaren zijn de mensen die voor de overheid werken. Hieronder staan deze over
 5. Mensen oplichten is toegestaan in het illegale circuit. Echter zijn hier wel beperkingen aan gekoppeld.
 
 
-!!! Note "Uitleg berovingen"
+    !!! Note "Uitleg berovingen"
 
-    Waarvan mag je mensen beroven?
+        Waarvan mag je mensen beroven?
 
-    [x] Illegale goederen.
-    [x] Zwart- en witgeld.
-    [x] Het is het toegestaan om mensen op te lichten met een maximum t.w.v. €15.000,-.
+        * [x] Illegale goederen.
+        * [x] Zwart- en witgeld.
+        * [x] Het is het toegestaan om mensen op te lichten met een maximum t.w.v. €15.000,-.
 
-    Waarvan mag je mensen niet beroven?
+        Waarvan mag je mensen niet beroven?
 
-    [ ] Geld van bankrekeningen
-    [ ] Gelicentieerde items
-    [ ] Overheidsitems (Vuurwapens, repairkits etc.)
-    [ ] Iemand forceren zijn/haar kluis leeg te halen.
-    [ ] Iemand oplichten in de autohandel (Het is wel je eigen risico om te controleren op de tuning).
+        * [ ] Geld van bankrekeningen
+        * [ ] Gelicentieerde items
+        * [ ] Overheidsitems (Vuurwapens, repairkits etc.)
+        * [ ] Iemand forceren zijn/haar kluis leeg te halen.
+        * [ ] Iemand oplichten in de autohandel (Het is wel je eigen risico om te controleren op de tuning).
 
-    Er zijn ook een aantal situaties waarin liquidaties wel zijn toegestaan.
+        Er zijn ook een aantal situaties waarin liquidaties wel zijn toegestaan.
 
-    [x] Iemand werkt niet mee aan een roofactie en heeft voldoende tijd gehad om zich aan de eisen te houden.
-    [x] Iemand trekt een wapen tijdens een roofactie.
-    [x] Iemand schiet terug na een eenrichtingsinitiatie
-    [x] Wanneer jouw groepering een eenrichtingsinitiatie hebben op een andere groep (bijvoorbeeld: jouw voertuig werd beschoten).
-    [x] Als het voertuig door de persoon beschoten is.
-    [x] Als beide personen zich op of rondom Cayo Perico bevinden.
-    [x] Als de persoon een directe dreiging vormt richting jou of je groepsleden.
+        * [x] Iemand werkt niet mee aan een roofactie en heeft voldoende tijd gehad om zich aan de eisen te houden.
+        * [x] Iemand trekt een wapen tijdens een roofactie.
+        * [x] Iemand schiet terug na een eenrichtingsinitiatie
+        * [x] Wanneer jouw groepering een eenrichtingsinitiatie hebben op een andere groep (bijvoorbeeld: jouw voertuig werd beschoten).
+        * [x] Als het voertuig door de persoon beschoten is.
+        * [x] Als beide personen zich op of rondom Cayo Perico bevinden.
+        * [x] Als de persoon een directe dreiging vormt richting jou of je groepsleden.
 
-    Er zijn ook een aantal redenen waarin het niet is toegestaan om een liquidatie uit te voeren. Deze punten staan hieronder vermeld.
+        Er zijn ook een aantal redenen waarin het niet is toegestaan om een liquidatie uit te voeren. Deze punten staan hieronder vermeld.
 
-    [ ] Als een persoon meewerkt aan een roofactie.
-    [ ] Wanneer er een eenrichtingsinitiatie is vanuit jouw gang (Je schiet bijvoorbeeld op een voertuig om het uit te schakelen).
-    [ ] Wanneer er geen duidelijke dreiging is.
-    [ ] Om de persoon iets te laten vergeten.
+        * [ ] Als een persoon meewerkt aan een roofactie.
+        * [ ] Wanneer er een eenrichtingsinitiatie is vanuit jouw gang (Je schiet bijvoorbeeld op een voertuig om het uit te schakelen).
+        * [ ] Wanneer er geen duidelijke dreiging is.
+        * [ ] Om de persoon iets te laten vergeten.
 
-    !!! abstract warning "Let op:"
-        *Personeelsleden van de ANWB en Ambulance mogen onder geen enkele mogelijkheid vermoord worden.*
-        *Indien de uitdrukking "bendeleden" gebruikt wordt geldt dit ook voor de politie.*
+        !!! abstract warning "Let op:"
+            *Personeelsleden van de ANWB en Ambulance mogen onder geen enkele mogelijkheid vermoord worden.*
+
 
 ### 15. Stemherkenning
 
