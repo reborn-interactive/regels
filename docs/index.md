@@ -33,7 +33,7 @@ Indien er een regel overtreden wordt probeer dan eerst met diegene in kwestie in
 1. Achter elk scenario die jij uitvoert dient een goede reden te zitten.
 2. Het leven dat jij leidt is ten alle tijden belangrijk.
 
-    !!! Note "Voorbeelden waarin jouw leven belangrijk is"
+    !!! Question "Voorbeelden waarin jouw leven belangrijk is"
 
         * Op het moment dat je een pistool in je holster hebt en iemand zegt tegen jou met een gericht wapen dat je je handen omhoog moet doen moet je hiernaar luisteren.
         * Op het moment dat jij een geladen pistool in je hand hebt en er komt iemand achter jou met een gericht wapen op je af moet je hiernaar luisteren.
@@ -42,7 +42,7 @@ Indien er een regel overtreden wordt probeer dan eerst met diegene in kwestie in
 3. Combatloggen is niet toegestaan, hieronder valt het uitloggen wanneer een RP scenario zich actief afspeelt of afgelopen is en binnen een tijd van 15 minuten. Op het moment dat jij bijvoorbeeld achtervolgt werd of in gevecht bent of kort na het verkopen van illegale substanties geldt dit ook.
 4. Combatstashing is ook niet toegestaan. Hiermee wordt bedoelt het opslaan van jouw goederen in de tijd van 15 minuten. Een aantal voorbeelden zijn:
 
-    !!! Note "Voorbeelden Combatstashing"
+    !!! failure "Voorbeelden Combatstashing"
 
         * Een voertuig in de garage zetten terwijl je wordt overvallen.
         * Items in je kluis leggen terwijl je deel hebt genomen aan een scenario.
@@ -60,14 +60,14 @@ Indien er een regel overtreden wordt probeer dan eerst met diegene in kwestie in
 
 1. Wraakacties verwijzen naar het wraaknemen op een eerdere interactie en/of gebeurtenis. Spelers mogen wraakacties uitvoeren tot de eerstvolgende serverrestart. Dit betekend dat een wraakactie, zoals het vermoorden van iemand, geldig blijft en kan worden uitgevoerd zolang er geen serverrestart is geweest. (Een uitzondering hierop is een geforceerde restart of een servercrash). Na de restart vervalt de geldigheid van de reden om wraak te nemen en moet je opnieuw een geldige reden hebben om een wraakactie uit te mogen voeren.
 
-    !!! Note "Situaties voor het nemen van een wraakacties"
+    !!! success "Situaties voor het nemen van een wraakacties"
 
         * Het terugpakken n.a.v. een eerdere confrontatie: Op het moment dat er zich eerder een vijandige interactie heeft plaatsgevonden, zoals een mislukte overval, aanval of een bedrog tijdens een eerdere ontmoeting.
         * Wraak voor schade of verlies: Als jij materiële schade hebt opgelopen door iemand anders kan jij wraak nemen door de dader te overvallen, gijzelen of anderszins te benadelen binnen de grenzen van de RP-regels.
         * Betrokkenheid bij gang conflicten: Spelers die lid zijn van een criminele organisatie die in oorlog zijn met een andere partij, hebben het recht om wraak te nemen op de vijandige partij.
         * Reactie op verraad of bedrog: Als jij wordt verraden door een medespeler is het toegestaan om wraak te nemen door bijvoorbeeld waardevolle items te confisqueren of om diegene te mishandelen/vermoorden.
 
-    !!! Note "Situaties waarin het niet toegestaan is om een wraakactie te plegen"
+    !!! danger "Situaties waarin het niet toegestaan is om een wraakactie te plegen"
 
         * Een ambtenaar die een boete uitschrijft: Op het moment dat een politieagent een boete uitschrijft is het niet toegestaan om wraak te nemen op diegene. De boete moet  geaccepteerd worden tenzij het binnen de RP-logica mogelijk is om de situatie op een andere manier op te lossen (bijvoorbeeld door onderhandelingen).
         * Een verloren gevecht of confrontatie: Wanneer jij een gevecht verliest is het niet acceptabel om onmiddelijk wraak te nemen door de andere partij aan te vallen. Op het moment dat jij overlijdt aan dit gevecht gaat ook de New Life Rule (NLR) in en wordt jij ontzien van het recht om wraak te nemen op dezelfde partij.
@@ -119,12 +119,7 @@ Het besturen van een vliegtuig, helikopter of ander vliegend voertuig is niet to
 ### 12. Ambtenaren
 
 1. Ambtenaren vallen onder de mensen die voor de overheidinstanties werken. 
-
-    !!! Note "Overheidsinstanties Reborn"
-
-        * Politie
-        * Ambulance
-        * ANWB
+    * Overheidsinstanties in Reborninteractive zijn: Politie, Ambulance en ANWB
 
 2. Vanuit de overheidsdiensten is het NIET toegestaan om in dienst te gaan airsoften, criminele activiteiten en/of licentie jobs uit te voeren. Echter zitten er soms uitzonderingen aan het in dienst airsoften. Dit is enkel wanneer desbetreffende overheidsdirectie dit besloten heeft voor bv. een bedrijfsevenement. De leiding van ANWB/Politie en Ambulance dienen ten alle tijde op de hoogte gehouden te worden van een warn/ban m.b.t. verbreken van deze regel. (Een uitzondering op criminele activiteiten geldt voor de ANWB en de Ambulance).
 3. Het is verboden om uit-dienst goederen bij je te dragen die je in-dienst gebruikt (denk hierbij aan een tazer, pistool of medische middelen).
@@ -146,7 +141,7 @@ Het besturen van een vliegtuig, helikopter of ander vliegend voertuig is niet to
 
 1. Het beroven van spelers is toegestaan indien jij hier een goede reden voor hebt, een simpel voorbeeld hiervan is onderdeel zijn van een criminele organisatie die in oorlog is met een andere criminele organisatie. Zodra er een server restart is geweest is het niet meer toegestaan om actieve herinneringen te hebben aan de vorige dag en daarom iemand nog te rippen. Een uitzondering hierop is een onverwachte servercrash of een restart. In dat geval loopt de timer door tot de oorspronkelijk eerstkomende getimde restart.
 
-    !!! Note "Redenen om iemand te beroven" 
+    !!! success "Redenen om iemand te beroven" 
 
         * [x] Op het moment dat iemand een masker/bivakmuts draagt.
         * [x] Op het moment dat iemand een holster draagt.
@@ -156,7 +151,7 @@ Het besturen van een vliegtuig, helikopter of ander vliegend voertuig is niet to
 
     *Zodra jij een van bovenstaande punten herkend bij iemand is het toegestaan om diegene te beroven tot 30 minuten daarna. Dan vervalt deze geldigheid en heb je het recht niet meer om diegene te beroven.*
         
-    !!! Note "Wanneer het niet toegestaan is iemand te beroven" 
+    !!! danger "Wanneer het niet toegestaan is iemand te beroven" 
 
         * [ ] Spelers die een legaal gelicentieerde job uitvoeren mag je niet beroven.
         * [ ] Het beroven van spelers rondom VASTE drugsprodoctieplekken is niet toegestaan in een radius van 200 meter. (Methcampers mag je dus wel rippen omdat zij geen vaste productie plekken hebben)
@@ -169,7 +164,7 @@ Het besturen van een vliegtuig, helikopter of ander vliegend voertuig is niet to
 5. Mensen oplichten is toegestaan in het illegale circuit. Echter zijn hier wel beperkingen aan gekoppeld.
 
 
-    !!! Note "Uitleg berovingen"
+    !!! info "Uitleg berovingen"
 
         Waarvan mag je mensen beroven?
 
