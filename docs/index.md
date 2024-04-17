@@ -54,6 +54,7 @@ Indien er een regel overtreden wordt probeer dan eerst met diegene in kwestie in
 8. Op het moment dat iemand anders een regel overtreed krijg jij geen uitzondering om de regels ook te overtreden. Blijf in RP en probeer het scenario ACHTERAF op te lossen doormiddel van een ticket of een report.
 9. Wanneer spelers (individueel of in een groep) veel negativiteit veroorzaken (denk aan bijvoorbeeld meerdere malen regels overtreden) of veel waarschuwingen is het management-team gemachtigd om samen te kijken naar een sanctie hierop. Dit kan leiden tot een ban.
 10. Powergaming is niet toegestaan. Dit houdt in dat spelers niet in situaties mogen belanden waarbij het niet mogelijk is met de mechanics binnen de server. Een voorbeeld is "Ik heb een bomgordel" of "Ik heb een vingerafdrukscanner gebruikt om je naam te traceren." Kleine acties zoals het vastbinden van iemand doormiddel van /me is wel toegestaan.
+11. Het is niet toegestaan om AFK te staan binnen Reborn. Dit houdt in dat je ten alle tijden aanwezig moet zijn om antwoord te geven indien iemand jou aanspreekt. Mocht je voor een korte tijd (minder als 5 minuten) weg zijn dan is het niet verplicht om de server te verlaten.
 
 ### 4. Wraakacties
 
