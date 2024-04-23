@@ -58,33 +58,78 @@ Indien er een regel overtreden wordt probeer dan eerst met diegene in kwestie in
 
 ### 4. Wraakacties
 
-1. Wraakacties verwijzen naar het wraaknemen op een eerdere interactie en/of gebeurtenis. Spelers mogen wraakacties uitvoeren tot de eerstvolgende serverrestart. Dit betekend dat een wraakactie, zoals het vermoorden van iemand, geldig blijft en kan worden uitgevoerd zolang er geen serverrestart is geweest. (Een uitzondering hierop is een geforceerde restart of een servercrash). Na de restart vervalt de geldigheid van de reden om wraak te nemen en moet je opnieuw een geldige reden hebben om een wraakactie uit te mogen voeren.
+Wraakacties verwijzen naar het wraaknemen op een eerdere interactie en/of gebeurtenis.
+
+1. Spelers mogen wraakacties uitvoeren tot de dagelijkse serverrestart. (06:00)
+2. Wraakacties tellen als een geldige RP reden om iemand te mogen beroven en/of ontvoeren. (houd je aan de regels mbt beroven/ontvoeren)
+3. Wraakacties zijn GEEN eenrichtings-inisiatie en mogen NIET gebruikt worden om iemand direct te vermoorden. (warn: schieten / doden op de persoon zal worden gezien als RDM)
+4. Na een succesvolle wraakactie, mag het niet nogmaals worden gebruikt op dezelfde persoon of groep.
 
     !!! success "Situaties voor het nemen van een wraakacties"
 
-        * Het terugpakken n.a.v. een eerdere confrontatie: Op het moment dat er zich eerder een vijandige interactie heeft plaatsgevonden, zoals een mislukte overval, aanval of een bedrog tijdens een eerdere ontmoeting.
-        * Wraak voor schade of verlies: Als jij materiële schade hebt opgelopen door iemand anders kan jij wraak nemen door de dader te overvallen, gijzelen of anderszins te benadelen binnen de grenzen van de RP-regels.
-        * Betrokkenheid bij gang conflicten: Spelers die lid zijn van een criminele organisatie die in oorlog zijn met een andere partij, hebben het recht om wraak te nemen op de vijandige partij.
-        * Reactie op verraad of bedrog: Als jij wordt verraden door een medespeler is het toegestaan om wraak te nemen door bijvoorbeeld waardevolle items te confisqueren of om diegene te mishandelen/vermoorden.
+        * Het terugpakken n.a.v. een eerdere criminele rp-situatie.
+        * Wraak voor schade of verlies.
+        * Betrokkenheid bij gang conflicten (Gang wars).
+        * Reactie op verraad of bedrog.
+        * Reactie op verbale uitdaging
 
     !!! danger "Situaties waarin het niet toegestaan is om een wraakactie te plegen"
 
-        * Een ambtenaar die een boete uitschrijft: Op het moment dat een politieagent een boete uitschrijft is het niet toegestaan om wraak te nemen op diegene. De boete moet  geaccepteerd worden tenzij het binnen de RP-logica mogelijk is om de situatie op een andere manier op te lossen (bijvoorbeeld door onderhandelingen).
-        * Een verloren gevecht of confrontatie: Wanneer jij een gevecht verliest is het niet acceptabel om onmiddelijk wraak te nemen door de andere partij aan te vallen. Op het moment dat jij overlijdt aan dit gevecht gaat ook de New Life Rule (NLR) in en wordt jij ontzien van het recht om wraak te nemen op dezelfde partij.
-        * Onbedoelde schade: Op het moment dat een speler perongeluk schade veroorzaakt aan jou zonde kwade bedoeling(en) is het niet toegestaan om wraak te nemen zoals het vermoorden van de persoon. Om wraak te mogen nemen op iemand dien je opnieuw een geldige reden te hebben om deze wraakactie alsnog uit te voeren.
+        * Wanneer de persoon een In-dienst ambtenaar is.
+        * Wanneer je op een geldige manier overleden bent in de situatie.(NLR regel)
+        * Kleinschallige incidenten zoals: onbedoelde schade, schelden (binnen de normen).
+        * Als de situatie niet meer in dezelfde restart is gebeurd
 
-### 5. VDM
+### 5. Een en -tweerichtings initiaties
+
+Met Initiatie wordt bedoeld een bedreiging van een persoon of een groep op een andere persoon of groep is waar schieten is toegestaan.
+(Als je in een gang zit gaat telt alle "persoonlijke" Initiaties ook voor jouw volledige gang)
+Met deze set aan regels zal duidelijk worden wanneer schieten in een situatie geldig is.
+
+## Eenrichtings-initiatie (one-way)
+
+Eenrichtings initiatie houd in dat maar vanuit 1 groep geschoten mag worden zonder dat dit word gezien als RDM. Manieren van one-way wordt hieronder duidelijk vermeld.
+1. Als je voertuig poging tot of wordt uitschakeld (banden schieten en/of spijkermatten) zonder voorgaande initiatie telt dit dus als one-way. De bestuurder + zijn gang en alle passasiergs hebben one-way op de persoon die schiet / spijkermat is.
+2. Als je helikopter wordt geblokeerd door een andere helipcopter tijdens het opstijgen heb je one-way op de helicopter.
+
+## Tweerichtings-initiatie (two-way)
+
+Tweerichtings-initiatie houd in dat vanuit beide partijen geschoten mag worden zonder dat dit als RDM zal worden beschouwd.
+1. Wanneer de gang of persoon met one-way op jouw of jouw gang de eerste shot lost. (one-way wordt dan two-way)
+2. Wanneer jij of iemand van jouw gang verbaal bedreigt wordt met een wapen.
+3. Wanneer jij of iemand van jouw gang overvallen en/of gehostaged is of wordt. (of door de politie wordt gearresteerd)
+4. Wanneer jij of de politie onherhandelingen afblaast.
+
+!!! info "Voorbeelden initiaties"
+
+    * Je rijd in je truck en plotteling rij je over een spijkermat van de politie. je hebt dan "one way" op de politie en jij en jouw volledige gang mag het eerste vuur lossen op hun.
+    * Je wilt iemand ontvoeren voor een bank en je bedreigt hem met behulp van een wapen (two-way). De tegenpartij zijn gang en jouw gang mogen op elkaar schieten. (natuurlijk niet op de hostage als diegene meewerkt)
+    * Je doet een bank overval en de politie wilt niet onderhandelen (two-way). De politie en gang die de bank doet mogen op elkaar schieten.
+    * Je ziet dat je gang genoot gestopt wordt door de politie met een stop teken (Geen-initiatie) Je mag niet schieten.
+    * Je ziet dat je gang genoot door de politie met getrokken wapen de auto wordt uitgezet (two-way) je mag schieten.
+    * Je ziet iemand staan met een AK in zijn hand (geen-initiatie) Je mag hem niet zomaar schieten, je dient eerst hem te bedreigen met een wapen.
+
+### 6. Tijdsduur situaties
+
+Deze regels gaan over de duur van een situatie, en wanneer een inisitatie niet meer geldig is.
+
+1. Elke situatie is anders, echter hoelang een situatie duurt en hoelang two-way of one-way inisitatie geldig blijft hetzelfde.
+2. De situatie is officieel gestopt en de inisitatie tussen 2 groepen zullen ongeldig zijn als ze aan alle volgende punten voldoen:
+    * Langer dan 20 minuten uit elkaars zicht zijn verdwenen
+    * Als ze meer dan 1.5 km ongezien van het laatste bekende punt zijn ontvlucht.
+
+### 7. VDM
 
 1. Vehicle Death Match oftewel VDM is het opzettelijk gebruiken van je voertuig om medespelers aan te rijden met slechte bedoelingen zoals iemand verwonden of de dood tot gevolg is niet toegestaan.
 2. Indien jij overleden bent door iemand die opzettelijk VDM gepleegd heeft mag jij de desbetreffende bestuurder en de bijrijder(s) neerschieten.
 3. Het "pitten" van een ander voertuig met als doel het andere voertuig tot stilstand te krijgen of kapot te maken is toegestaan indien het voertuig niet zwaarder weegt en als de snelheid lager is als 100 km/u. Op de motor is dit maximaal 30 km/h.
 
-### 6. RDM
+### 8. RDM
 
 1. Random Death Match oftewel RDM is het opzettelijk uitschakelen van een ander zonder hier enige geldige vorm van roleplay aan gekoppeld te hebben.
 2. Op het moment dat jij geRDM'd bent is het toegestaan om vuur terug te openen richting de persoon(en) die oorspronkelijk RDM pleegden op jou.
 
-### 7. GTA Drivestyle
+### 9. GTA Drivestyle
 
 1. GTA Drivestyle verwijst naar het onrealistisch besturen van een voertuig wat in het echte leven niet zou kunnen. 
 Hieronder staan een aantal voorbeelden hiervan:
@@ -94,29 +139,29 @@ Hieronder staan een aantal voorbeelden hiervan:
 * Met een on-road voertuig opzettelijk off-road rijden.
 * Het onnodig "pitten" van andere voertuigen zonder geldige reden.
 
-### 8. Vliegbrevet
+### 10. Vliegbrevet
 
 Het besturen van een vliegtuig, helikopter of ander vliegend voertuig is niet toegestaan zonder een geldig vliegbrevet.
 
-### 9. Reports
+### 11. Reports
 
 1. Op het moment dat jij gebruik maakt van "/report" om iemand die regel(s) overtreed te rapporteren word er verwacht dat jij dit aan niemand in-game vermeld, dit valt namelijk onder FailRP (OOC praten in RP).
 2. Het onnodig maken van reports, spammen in reports of discussies aangaan in reports is niet toegestaan.
 
-### 10. Gebruik van voertuig(en)
+### 12. Gebruik van voertuig(en)
 
 1. Het is ten strengste verboden om als ambtenaar gebruik te maken van dienstvoertuig(en) om illegale activiteiten uit te voeren.
 2. Het is niet toegestaan om voertuigen te gebruiken als wapen. Dit valt onder VDM.
 3. Het is niet toegestaan om met voertuigen gebouwen te betreden (enkel als er een garage aanwezig is is dit wel toegestaan).
 4. Als "normale" inwoner zijnde is het niet toegestaan om overheidsvoertuigen te besturen. Enkel wanneer hier een goede reden in RP voor is.
 
-### 11. Taalgebruik
+### 13. Taalgebruik
 
 1. Het schelden met hederdaagse ziekten is niet toegestaan. Dit zal de 1e keer bestraft worden met een ban van 1 maand, de 2e keer 3 maanden en de 3e keer een permanente ban.
 2. Het is binnen Reborn niet toegestaan om uitlokkend, toxic of haatdragend gedrag te tonen. Staff heeft ten alle tijden het recht om te bepalen wanneer iets als ongepast beschouwd wordt en zij mogen hier ook een passende sanctie aan te koppelen.
 3. Het vertonen van racistisch gedrag of andere ongepaste opmerkingen uiten is niet toegestaan.
 
-### 12. Ambtenaren
+### 14. Ambtenaren
 
 1. Ambtenaren vallen onder de mensen die voor de overheidinstanties werken. 
     * Overheidsinstanties in Reborninteractive zijn: Politie, Ambulance en ANWB
@@ -128,7 +173,7 @@ Het besturen van een vliegtuig, helikopter of ander vliegend voertuig is niet to
 6. Als ambtenaar is het niet toegestaan om in-dienst gelicentieerde jobs uit te voeren.
 7. De politie is bevoegd om te controleren op verwerkingsplekken van drugslocaties, echter mogen zij niet controleren op vaste productieplekken van drugs.
 
-### 13. Gedrag richting overheidsinstanties
+### 15. Gedrag richting overheidsinstanties
 
 1. Het is niet toegestaan om meldingen te maken bij een overheidsinstantie om deze persoon vervolgens te ontvoeren of vermoorden.
 2. Een melding richting overheidsinstanties dienen ten alle tijden uitgebreid en realistisch te zijn.
@@ -136,7 +181,7 @@ Het besturen van een vliegtuig, helikopter of ander vliegend voertuig is niet to
 4. Het ontvoeren van ambtenaren is toegestaan. Echter is dit alleen toegestaan voor politieagenten en hebben de ambulance en ANWB dus een "freepass" op ontvoerd worden. De regel die hieraan gekoppeld zit is dat er ten alle tijden maar 1/3 van het totaal aantal agenten in-dienst ontvoerd mogen worden (bij 3 dus 1, bij 6 mogen er 2 ontvoerd worden en zo maar door).
 5. Op het moment dat jij een agent in zijn benen schiet probeer dan eerst de desbetreffende agent te gijzelen indien mogelijk en als laatste optie pas het vuur te openen.
 
-### 14. Criminaliteit
+### 16. Criminaliteit
 
 
 1. Het beroven van spelers is toegestaan indien jij hier een goede reden voor hebt, een simpel voorbeeld hiervan is onderdeel zijn van een criminele organisatie die in oorlog is met een andere criminele organisatie. Zodra er een server restart is geweest is het niet meer toegestaan om actieve herinneringen te hebben aan de vorige dag en daarom iemand nog te rippen. Een uitzondering hierop is een onverwachte servercrash of een restart. In dat geval loopt de timer door tot de oorspronkelijk eerstkomende getimde restart.
@@ -201,13 +246,13 @@ Het besturen van een vliegtuig, helikopter of ander vliegend voertuig is niet to
             *Personeelsleden van de ANWB en Ambulance mogen onder geen enkele mogelijkheid vermoord worden.*
 
 
-### 15. Stemherkenning
+### 17. Stemherkenning
 
 1. Het is toegestaan om externe software te gebruiken om je stem te veranderen tijdens het plegen van criminele activiteiten of tijdens het uitvoeren van een functie binnen het politiekorps waarbij de identiteit anoniem moet blijven.
 2. Zodra iemand geen mogelijkheid heeft om een stemvervormer te gebruiken en diegene stopt er daadwerkelijk effort in om zijn stem anders te laten klinken is het niet toegestaan om diegene te herkennen.
 3. Iemand herkennen aan zijn/haar stem is toegestaan indien je diegene kent en hij/zij geen gezichtsbedekkende kleding draagt. 
 
-### 16. Cayo Perico
+### 18. Cayo Perico
 
 Het eiland (Cayo Perico) in Reborn is een "danger-zone".
 Dit houdt in dat er een aantal regels niet meer van toepassing zijn hier.
