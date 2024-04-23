@@ -88,17 +88,18 @@ Met deze set aan regels zal duidelijk worden wanneer schieten in een situatie ge
 
 ## Eenrichtings-initiatie (one-way)
 
-Eenrichtings initiatie houd in dat maar vanuit 1 groep geschoten mag worden zonder dat dit word gezien als RDM. Manieren van one-way wordt hieronder duidelijk vermeld.
-1. Als je voertuig poging tot of wordt uitschakeld (banden schieten en/of spijkermatten) zonder voorgaande initiatie telt dit dus als one-way. De bestuurder + zijn gang en alle passasiergs hebben one-way op de persoon die schiet / spijkermat is.
-2. Als je helikopter wordt geblokeerd door een andere helipcopter tijdens het opstijgen heb je one-way op de helicopter.
+* Eenrichtings initiatie houd in dat maar vanuit 1 groep geschoten mag worden zonder dat dit word gezien als RDM. Manieren van one-way wordt hieronder duidelijk vermeld.
+* Als je voertuig poging tot of wordt uitschakeld (banden schieten en/of spijkermatten) zonder voorgaande initiatie telt dit dus als one-way. De bestuurder + zijn gang en alle passasiergs hebben one-way op de persoon die schiet / spijkermat is.
+* Als je helikopter wordt geblokeerd door een andere helipcopter tijdens het opstijgen heb je one-way op de helicopter.
 
 ## Tweerichtings-initiatie (two-way)
 
 Tweerichtings-initiatie houd in dat vanuit beide partijen geschoten mag worden zonder dat dit als RDM zal worden beschouwd.
-1. Wanneer de gang of persoon met one-way op jouw of jouw gang de eerste shot lost. (one-way wordt dan two-way)
-2. Wanneer jij of iemand van jouw gang verbaal bedreigt wordt met een wapen.
-3. Wanneer jij of iemand van jouw gang overvallen en/of gehostaged is of wordt. (of door de politie wordt gearresteerd)
-4. Wanneer jij of de politie onherhandelingen afblaast.
+
+* Wanneer de gang of persoon met one-way op jouw of jouw gang de eerste shot lost. (one-way wordt dan two-way)
+* Wanneer jij of iemand van jouw gang verbaal bedreigt wordt met een wapen.
+* Wanneer jij of iemand van jouw gang overvallen en/of gehostaged is of wordt. (of door de politie wordt gearresteerd)
+* Wanneer jij of de politie onherhandelingen afblaast.
 
 !!! info "Voorbeelden initiaties"
 
