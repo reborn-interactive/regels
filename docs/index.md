@@ -2,7 +2,7 @@
 
 <figure markdown>
   ![Image title](https://i.gyazo.com/527b924e2f1aa39d87a2786d6172f4a2.png){ width="250" }
-  <figcaption>Laatste update: 17-04-2024</figcaption>
+  <figcaption>Laatste update: 23-04-2024</figcaption>
 </figure>
 
 
