@@ -56,7 +56,7 @@ Indien er een regel overtreden wordt probeer dan eerst met diegene in kwestie in
 6.  Garage cirkels blokkeren met voertuigen is niet toegestaan.
 7.  Zodra jij in een scenario beland en je verliest je connection met de server is het jouw verantwoordelijkheid om contact op te nemen met de andere betrokken partij.
 8.  Een persoon mag niet gegijzeld worden voor meer dan één situatie per keer. De intentie met de gijzeling moet wel gestart worden binnen één uur.
-9. De overheid mag maximaal een verdachte 30 min lang in voorarrest houden. 
+9. De overheid mag maximaal een verdachte 30 min lang vasthouden voordat het strafproces begint. 
 
     ??? note "Verdere uitleg"
         Het voorarrest mag maximaal 30 minuten duren. Binnen deze tijd moet de agent het strafproces starten. Dit betekent dat zodra je door de agent in een cel wordt geplaatst, de 30 minuten ingaan.
