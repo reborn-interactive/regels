@@ -181,7 +181,7 @@ Je kan op elk moment in-game staff aanroepen, dit doe je via /report. De volgend
 
      - Overheidsinstanties in Reborninteractive zijn: Politie, Ambulance en ANWB
 
-2. Vanuit de overheidsdiensten is het NIET toegestaan om in dienst te gaan airsoften, criminele activiteiten en/of licentie jobs uit te voeren. Echter zitten er soms uitzonderingen aan het in dienst airsoften. Dit is enkel wanneer desbetreffende overheidsdirectie dit besloten heeft voor bv. een bedrijfsevenement. De leiding van ANWB/Politie en Ambulance dienen ten alle tijde op de hoogte gehouden te worden van een warn/ban m.b.t. verbreken van deze regel. (Een uitzondering op criminele activiteiten geldt voor de ANWB en de Ambulance).
+2. Wanneer je in-dienst bent is het niet toegestaan om vrijetijds activiteiten zoals airsoft, casino of andere licentie banen uit te oefenen. Uitzonderingen kunnen worden gegeven door de leidinggevende.
 3. Het is verboden om uit-dienst goederen bij je te dragen die je in-dienst gebruikt (denk hierbij aan een tazer, pistool of medische middelen).
 4. Het is niet toegestaan om geconfisqueerde items door te verkopen aan spelers.
 5. Op het moment dat jij ontslag neemt als overheidsinstantie is het niet toegestaan om informatie te gebruiken die jij tijdens je werkperiode voor deze overheidsfunctie hebt verkregen.
