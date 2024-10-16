@@ -221,6 +221,13 @@ Je kan op elk moment in-game staff aanroepen, dit doe je via /report. De volgend
 3.  Als je van plan bent iemand te vermoorden is het te allen tijde verplicht om diegene duidelijk te maken waarom diegene vermoord wordt. Dit terwijl diegene nog in leven is. (Uitzondering van een shootout en scenario's waarin het onmogelijk is).
 4.  Schietincidenten dienen te allen tijde zoveel mogelijk voorkomen te worden. Probeer eerst te onderhandelen met de politie.
 5.  Mensen oplichten is toegestaan in het illegale circuit. Echter zijn hier wel beperkingen aan gekoppeld.
+6.  Het is ten strengste verboden om medewerkers van de Ambulance en/of ANWB te gijzelen, vermoorden of op enige wijze in levensgevaar te brengen. Hieronder valt onder andere:
+    - Het gijzelen van ambulancebroeders of ANWB-medewerkers.
+    - Het opzettelijk beschadigen van ambulance- of ANWB-voertuigen.
+    - Het veroorzaken van ongevallen met als doel ambulanciers of ANWB-medewerkers in gevaar te brengen, zoals het schieten op banden van voertuigen of andere vormen van sabotage.
+    
+    !!! note 
+        Spelers dienen er te allen tijde voor te zorgen dat hun acties niet direct of indirect de levens van medewerkers van de Ambulance of ANWB in gevaar brengen, inclusief situaties waarin deze medewerkers worden opgeroepen om te helpen.
 
     !!! info "Uitleg berovingen"
 
